@@ -1,9 +1,0 @@
-Dear,
-
-I am a very experienced CodeIgniter developer with more than 8 years of working experience on PHP.
-
-I've very much experience working on payment integrations with stripe, bluesnap, heartland and so on. I can implement any type of payment gateway if it's accompanied with a proper documentation. I also have worked on various crypto related projects including crypto API integrations and solidity smart contract development.
-
-I can dedicate my full time on the project and provide smooth communication to ensure we're always on the same page.
-
-Thanks,

@@ -1,4 +1,0 @@
---upwork
-
-name : John Lee
-ability: Full stack & Mobile Developer

@@ -1,8 +1,0 @@
-https://blog.cosmos.network/technology-choices-when-building-your-own-blockchain-a15385cf59bd
-
-https://v1.cosmos.network/tools
-
-https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a
-
-
-Cosmos is one of them, and the network officially went live late last night. Cosmos tackles many of the issues that plague public blockchains, including three of the biggest: scalability, interoperability and finality. But Cosmos isn’t a single blockchain, it’s a network of blockchains. And some of those blockchains can be private.

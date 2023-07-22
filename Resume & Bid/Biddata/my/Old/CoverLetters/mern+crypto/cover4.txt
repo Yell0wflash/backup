@@ -1,3 +1,0 @@
-I can build the services website in React + GatsbyJS so it's SEO friendly and you can get as much organic traffic as possible via your content. For backend, if you wanna keep it simple, we can use Firebase, but since you have 3 months of time, I'd recommend building a robust one with proper PostgreSQL and GraphQL.
-We can also integrate web3 using Moralis, to connect our metamask wallet with the web app.
-Happy to discuss further details if you are interested

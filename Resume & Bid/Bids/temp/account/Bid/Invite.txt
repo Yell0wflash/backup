@@ -1,8 +1,0 @@
-Thank you for your invitation!
-I am working as new freelancer on upwork but I have good skill and many experience in web development.
-I read your job description in detail and I'd like to work for your project.
-I think that your project is big project for backend part.
-I know well Meteor, MongoDB,React.js, Redux Frameworks like Saga, Thunk, Angular.jsand  Angular (2,4,5,6) so I am sure that I can help you very well.
-Also I have experience in Cloud backend such as Parse, Parse REST, Amazon, Firebase so no problem.
-I am looking for your more detail for project.
-Thanks again.
