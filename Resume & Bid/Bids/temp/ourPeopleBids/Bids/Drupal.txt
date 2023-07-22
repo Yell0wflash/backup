@@ -1,0 +1,190 @@
+Greetings,
+
+I've read your job posting and feel that I am the perfect match for this as I have all the skills required, especially on PHP.
+
+In-depth knowledge of PHP and design patterns the code I write is extensible and maintainable.
+I believe that my experience makes me an excellent candidate for the position.
+
+I have more than 8 years of experience on web development alone and having started my career with PHP, I've got extensive knowledge about the language and frameworks built on it including Drupal, Magento, Laravel, Zend and so on.
+I also have a keen eye for clean UI/UX design and have much experience with building HTML5 animations and dealing with SVG elements.
+I've worked at various agencies in my career and thus have very much experience with agile management methodologies like Jira and Trello as well as excellent team work experience.
+
+Please check the following websites as a reference to my recent work :
+
+http://www.enlight.tech (Drupal 8)
+http://dev-meo.pantheonsite.io (Drupal 8)
+http://www.michaelwaltersadvertising.com (Drupal 8)
+https://tennisfolder.com (Drupal 7)
+http://sadeczanin.info (Drupal 7)
+
+Thanks for your read, ready to discuss more about the project during the interview.
+Best regards, 
+
+
+
+URLS:
+
+https://www.higgidy.co.uk/home
+Higgidy launched a major rebranding exercise, moving to a more modern and fresh look with a focus on content-driven marketing through recipes and lifestyle content. Drupal 8 was selected for this project based on several factors; primarily the capacity for the site to scale with the business over time, combined with simple but powerful content management.
+
+https://www.eyca.org/card/countries/31/greece
+The website was completely redesigned and developed in Drupal 7 with Responsive Design for optimal navigation on mobile devices. The theme is custom and has focused on best responding to the high traffic of the website.
+
+
+1) https://www.agincare-homes.co.uk/care-home-directory
+(Implemented this directory on already running live site)
+
+2) http://annmarimai.dk.linux95.unoeuro-server.com/annmarimai_new
+(Drupal 7 custom templating and Blog integration site)
+
+3) www.polarglaze.com
+(Integrated custom designed templates to extend live site. Created content types,Taaxonomies, Views, wrote tpl files etc. This is the teaser page and every page connected to this page has been integrated by me including taxonomy term pages: 1)http://www.polarglaze.com/recent-installations
+
+ 4) http://www.enlight.tech
+ (Converted from PSD to drupal8 Site)
+
+ 5) http://dev-meo.pantheonsite.io/
+ (I have converted it from PSD to drupal 8. The main functionality of the site is that it's adopting layout in each section automatically depending upon the number of nodes published in that content type)
+
+ 6) http://dev.exaltsolutions.com
+ (Recently Converted from PSD to Bootstrap to drupal 8 site)
+
+ 7) http://209.236.71.250/~joneselderlaw
+ (Made already working drupal 7 site responsive)
+
+ 8) www.drupal.fireflyworking.com
+ (Converted from psd to responsive drupal7)
+
+ 9) https://www.agincare.com/agincare-cqc-ratings-list
+ (Implemented this custom table by creating content type, views, template files, Specially putting conditional icons and text was not less than that of a challange)
+
+ 10) http://i-wish-you-were-here.com
+ (Site speed optimization, Site update and security implementaion)
+
+http://www.nwvoices.org
+http://myrxpc.com
+
+--------------------
+
+I am here to work on any technology like Drupal, WordPress Shopify, Angular.js, HTML5, CSS3, bootstrap, Sass, jquery, IONIC and many more....
+
+I have a great experience inback end development as well as front end development so I can do this job with all my hard works and skills. When it comes to work, I make sure that my clients are satisfied with my work so I really give a lot of importance to the quality of code I make and it's efficiency and usability.
+
+*IMPORTANT* well If you have ongoing and long term work for 3 months we can work on monthly basis as well and discuss accordingly
+
+----------------
+
+Please have a look on my latest work demos:
+
+Angular:
+
+http://graduor.koresolutions.ca
+https://chiralsoftware.com/
+
+Drupal:
+
+http://highrock.viewmycreative.com/
+.https://campfireconvention.uk/ - Campfire members site
+http://aland.cn/ - Multilingual site
+http://lsfabrics.com - Ecommerce, Complete development and design
+http://www.streetfootballworld.org/ - Responsive, Multilingual, Payment gateways
+https://www.pandacareers.com/ - Drupal 8
+http://www.michaelwaltersadvertising.com/ - D8 Site, Fully Responsive,
+https://www.insertatee.com/
+
+-----------------
+Hello,
+
+I have advance coding abilities in Drupal and have prior experience in coding the complex drupal modules,Even have used javascript libraries like Angular JS, Node.js etc.
+
+Here are the Highlights why to choose me for this project:
+
+--- Most of my previous experience is in Drupal
+--- Also have advance skills in PHP/mysql, Saas, Angular JS with strong coding ability
+--- Have the ability to deliver the quality code, Bug free website with latest designing techniques.
+
+I've exceptional skills in Drupal and I will be available to start working immediately, Please review my profile I have the relevant skills and past experience to take care of your project. I have used Ubercart to develop the e-commerce functionality in Drupal. Integrated various payment gateways, stripe payment also.
+
+Please take a look to my previous accomplishments as follow:
+
+https://dailygazette.com (Drupal 8)
+https://www.jillianmichaels.com (Drupal 8)
+http://www.archivaldesigns.com (Drupal 7, 7.2 Custom plan for home building)
+http://www.mylifetime.com (responsive Drupal 7.3)
+http://www.weighmyrack.com (Drupal 6, Climbing assets)
+http://www.sfglife.com ( drupal 7)
+
+For the last 6 years I have developed website in various version of Drupal, Also have migrated to the latest version , Revamped many websites in drupal to fix the issues, enhance the functionality, improving the website speed, fixing the designing issues and many more. 
+
+------------------------
+Greetings for the day !!!
+
+I am a Passionate,Energetic & Dedicated Senior Developer working on Drupal Platform from last 7 years in Analysis,Design & Development of Websites & Web Applications.I have worked on its various versions such as D5,D6,D7 & Now Latest D8.
+
+Relevant Skills and Experience
+- Frontend: HTML,CSS,Bootstrap,Javascript/jQuery,AngularJs,
+- Backend: PHP,OOPS,Larvael,CI
+- Module,Plugin,Functionality,API Development,Customization & Integration
+
+My Drupal Skills & Abilities:-
+-> Ability to perform complex Drupal development tasks using custom module
+-> Exposure to development of Drupal API system and hooks from Drupal core systems
+-> Experience of building custom modules, themes (templates) and plugins (components)
+-> Ability to guide technical discussions with both technical and non-technical audiences
+-> Experience defining and scoping technical solutions for large scale Drupal projects
+-> Experience of creating UI templates and APIs, participate in technical and peer review processes, and build interactive web solutions with industry standard tools and techniques.
+-> Good knowledge of how to build high-performance, highly scalable technology platforms
+-> PHP coding, SQL administration and optimization, and Unix/Linux or Windows server knowledge experience
+-> Exposure of trouble shooting Drupal website performance problems and fine tuning applications and environments.
+-> Assist in release/deployment planning activities – build and continuous integration activities for Development and QA environment.
+
+What Services I Offer:-
+Custom Development & Coding
+Module,Plugin & Functionality Development/Customization
+Theme Development/Customization
+API & Web Services Integration
+Maintenance & Support
+Bug Fixing & Troubleshooting
+Enhancing Distributions.
+Upgrade,Update & Migration
+Single Sign On with an existing application
+Testing
+
+I believe in satisfying my clients with my best skills and expertise. I have a good working experience, best skills, which make me unique from others one. Please have a look at my profile, work history, feedback and give chance to work on your pleasure project. I'm able to work as per your timing schedule.
+
+I would love to discuss the work with you. If things work we can go for long term business.
+
+Please initiate chat so that we can discuss more and I can suggest you better.
+
+
+----------------
+Hope you doing great!
+
+With reference to your requirement of hiring EXPERT hands for your site development, I would like to apply and assist you on project by completely dedicating my time and knowledge for formulating solutions exactly as per details.
+
+I request you to share complete scope and details.
+
+I am highly proficient in building websites, applications and have an in depth understanding of :
+
+* ReactJs, Redux, MongoDB, Bootstrap, Angular, NodeJS and backend api integration, API integration, UI/UX designing, PSD/AI/Design conversion.
+* Integration of custom themes, developed many custom modules and worked on modules like Views, CCK, UberCart, (eCommerce) CiviCRM (CRM), Team Forums, Webform, Organic Groups, VBOs, and Event etc.
+* Extensive and appreciable knowledge of Php, MySQL, AJAX, Java Scripting, HTML/5 and CSS/3 in Linux and Windows environments.
+* With the experience I am comfortable in using source control tools like SVN, CVS and GIT and bug tracking tools like bugzilla, silk radar and fogbugz.
+* Worked on Smarty templates and used MVC frameworks like Zend, Code Igniter & CakePHP.
+* Worked on JavaScript frameworks like YUI, JQuery and JSON.
+* Worked with project management tools like MS Project, Dot project and basecamp.
+* Have followed agile development practices using Scrumworks.
+* Have also written SRS and technical docs for the web applications.
+
+Also, have excellent problem solving skills along with great time management, estimation and communication skills. I would love to build an awesome working relationship with you by my Expertise, Honesty, Sincerity and Hard Work.
+
+Looking for soonest reply from you. 
+
+
+-----------------
+
+I noticed you were looking to work with someone more experienced and professional on projects. We could help you with development and maintenance on various projects. We are Drupal experts with more than ten years experience in the industry. On most of our projects we work with Angular as well. We have no issues with communication and are native English speakers.
+
+You can let me know if you would be interested to further discuss this opportunity and to clarify more. Estimates could be provided as well. We are based out of Vancouver, Canada. All our work is performed in-house, we do not outsource. If you have any questions please do not hesitate to ask. You can see our website and portfolio below.
+
+https://www.devradius.com/work

@@ -1,0 +1,15 @@
+Hi,
+
+Having worked on web development for more than 8 years with strong focus on backend, I have attained a thorough experience with database management.
+
+I have dealt with most of the famous database solutions known including RDB (MySQL, PostgreSQL, MSSQL), NoSQL(Mongodb, ArangoDB) and GraphQL.
+
+I always prioritize database structure design and optimization on any project development as it has a crucial impact on the overall development and performance of the product.
+
+I also have strong knowledge with advanced techniques and querying such as transactions, triggers, complex subqueries & joins in SQL databases and aggregation, indexing, projections, etc in NoSQL databases.
+
+With this professional experience, I can manage any complex database solutions professionally with an optimal performance guaranteed.
+
+Let's discuss further.
+
+Thanks,

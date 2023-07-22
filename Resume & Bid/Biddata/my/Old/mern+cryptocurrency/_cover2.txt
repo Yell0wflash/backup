@@ -1,0 +1,30 @@
+Cover letter
+Hello,
+
+I saw your job post. I would like to apply for this job, I have 5+ years of experience
+
+My web developing expertise includes: I am skilled in
+RecatJS(NextJS, Gestby JS) MERN
+NodeJS(ExpressJs, LoopbackJS),
+React-native,
+Website Design(UI/UX),
+Database (MySQL, PostgreSQL),
+NoSQL(DynamoDB, MongoDB)
+REST APIs,
+Socket.io,
+Stripe,
+GraphQL,
+Firebase,
+AWS services like(Amplify, appsync, Cognito, EC2, S3, Lambda, API-gateway, SES, DynamoDB, Route53), etc.
+
+Please find my portfolio with an attachment to more about me and the following is my work experience:
+https://app.ottofinance.io/get-started (React/typescript)
+https://demo.agridealer.app/ (React, Nodejs)
+https://wowsmile.vercel.app/ (React)
+https://www.gfy.ag/ (React, AWS (amplify, S3, cognito, appsync, dynamoDB, EC2, code pipeline), strip payment gateway)
+https://artificial.chat (React, AWS lex, dynamodb, S3, polly, transcribe)
+https://petkonnect.in (React nodejs)
+
+Looking forward to working with you and building a long-term relationship.
+
+Thanks

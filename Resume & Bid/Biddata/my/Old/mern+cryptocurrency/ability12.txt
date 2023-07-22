@@ -1,0 +1,108 @@
+React Native|React|Redux
+Specializes in Full Stack Development
+$25.00/hr
+I am a full-stack professional developer who is comfortable with architecting and implementing scalable and maintainable web apps.
+
+I can develop all kinds of server-side logic, definition, and maintenance of the central database, ensuring high performance and responsiveness to requests from the front-end.
+
+I have strong knowledge and experience in the following:
+o Fluent in Javascript with 5+ years of experience coding in this language
+o Familiarity with DOM, JQuery, HTML5/CSS3/LESS, Bootstrap
+o 100% mastery in React/Redux/Angular/Vue.JS
+o Strong Knowledge of Designing and Implementing Restful APIs and GraphQL
+o Fluency using Git and GitHub in the team environment
+o Strong Database Management Skills (PostgreSQL, MongoDB)
+o Deploying up the application on various clouds/web servers like AWS/Digital Ocean
+
+My work ethic:
+o Writing reusable, testable and efficient code all the time
+o Hard-working, fast-learning and highly competent
+
+Additionally, I have strong analytical skills, problem-solving aptitude, and attention to details. I am always up for learning new technologies, so feel free to contact me about stuff not mentioned on my profile. Most importantly though, I value my clients and work towards building long-lasting relationships by understanding your needs, keeping an open channel of communication and delivering your products on time.
+
+less
+Work History 
+Completed jobs (7)
+In progress (1)
+Seeking Firebase + React Expert
+Rating is 5 out of 5.
+ 5.00 Feb 3, 2022 - Feb 5, 2022
+$90.00
+Fixed Price
+Web GIS App development
+Rating is 4.55 out of 5.
+ 4.55 Jan 5, 2020 - Sep 6, 2020
+$13,000.00
+Fixed Price
+React/Firebase SaaS Web Application
+Rating is 5 out of 5.
+ 5.00 Jan 6, 2019 - Apr 21, 2020
+"Exceptional job, very professional. Complex software development completed on time."
+
+$9,236.61
+$20.00 / hr
+459 hours
+Website developement (Wordpress for showcase, and PHP framework for member area)
+Rating is 3.65 out of 5.
+ 3.65 Jul 17, 2018 - Mar 1, 2020
+"My expectation was too high
+The team skill was perfect for simple project.
+Mine was too complex and the team made a lot of efforts to upgrade.
+I must say that the project had evolved several time. That's one reason to the failed adherence to schedule but not the only one."
+
+$15,003.00
+Fixed Price
+Work Bot
+Rating is 5 out of 5.
+ 5.00 Jun 16, 2019 - Feb 1, 2020
+$9,940.00
+$20.00 / hr
+497 hours
+TMS Invoice
+Jan 2, 2019
+No feedback given
+
+$12,700.00
+Fixed Price
+Developer
+Oct 28, 2018 - Dec 10, 2018
+No feedback given
+
+$3,853.33
+$20.00 / hr
+193 hours
+Portfolio (2)
+Easywebinar.com: Live and Automated webinar platform.Easywebinar.com: Live and Automated webinar platform.
+Data Mining and Analytics Tool for Facebook Live, Periscope & SnapchatData Mining and Analytics Tool for Facebook Live, Periscope & Snapchat
+Skills & expertise
+Full Stack Development Deliverables
+Database Architecture
+WordPress Plugin
+Custom PHP
+Web Application
+Customer Relationship Management
+API
+Database Design
+Ecommerce Website
+API Integration
+Full Stack Development Skills
+RESTful Architecture
+Node.js
+React
+WordPress
+Content Management System
+jQuery
+Vue.js
+AngularJS
+Bootstrap
+AJAX
+Amazon Web Services
+Website Security
+Laravel
+Databases
+SQLite
+PostgreSQL
+MySQL
+Microsoft SQL Server
+MongoDB
+Couchbase

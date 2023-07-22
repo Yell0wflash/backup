@@ -1,0 +1,121 @@
+-------------------------Requirements----------------------------
+I want to create an application that people can order service from it. You will find below the skeleton of the App.
+User P&nel:
+Login
+Location
+Homepage
+○ Categories Menu
+○ shop info
+○ Photo Gallery
+○ List of Products
+Cart selection
+○ Date and time
+Payment options
+Reviews
+Past orders
+Discounts and offers
+Contact Information
+Search
+Refine search
+
+
+Shop Panel:
+
+
+
+-----------------------------------------------------------------------------
+
+Hello, To develop an online ordering application along with shop web panel, I’m willing to sign NDA and I will be doing the following steps
+
+1- Clearly understand & discuss all your mobile application modules, UI/UX, screens, and flow.
+2- I will develop both frontend and backend.
+3- I will use the latest technology stack Flutter/Android and the best design patterns.
+4- I will do Testing, fixing, and delivering the quality product
+
+I offer FREE lifetime bug fixing support.
+I can help you to understand what’s possible within the options provided by the technology.
+
+May you can have a quick look at my recent jobs.
+https://apps.apple.com/us/app/real-athletics-workout/id1547881546
+https://play.google.com/store/apps/details?id=com.letterbird.beta
+https://play.google.com/store/apps/details?id=com.codeminers.tictocf
+https://play.google.com/store/apps/details?id=com.codeminers.satyacarsbid
+
+May I ask what the deadline for this project is?
+What is expected of me on a day-to-day basis while working on this project?
+Can you share more information on how you would like the project to proceed?
+Do you have any questions for me?
+
+We can have a Zoom call at your earliest convenience to discuss how to proceed with the project.
+
+Thanks,
+
+
+-------------------------------------------------------------------------
+
+Hi there,
+I just read your job posting and saw that you're looking to create a FOOD DELIVERY APP same as "UBER EATS".
+
+I HAVE THE DEMO FOR YOU!!
+
+I've created a food delivery app that works similarly to UBER Eats and has all of the following features:
+-Planning,Calculation, and Design
+-The app will automatically handle reports.
+-Remove an order from the queue,
+-Review previous orders,
+-On the map, track order
+-Us social media to register.
+-The menu's description
+-Easy to use,
+-Acknowledge and reject delivery requests
+-Pick-up and drop-off points on a map
+-Be available to receive requests by remaining online.
+-Close requests by going offline.
+
+Take a look at some of my previous similar work-
+https://play.google.com/store/apps/details?id=com.foodmorung.user
+https://play.google.com/store/apps/details?id=com.india.smart_life
+https://play.google.com/store/apps/details?id=com.allfood.allfoodapp
+https://play.google.com/store/apps/details?id=com.andamanhomedelivery
+
+Hope you will like my work.
+Please contact me if you require any other information.
+I'm eager to get started right away.
+
+Let's continue the conversation in chat.
+
+Best regards
+
+----------------------------------------------------------------------------
+
+Hello Dear, I hope you are having a great time.
+
+I just went through your JD. I perceive your prerequisite.I am prominent in Mobile App Development ( Android, iOS) & Website designing and development. I have been working here for the last 5+ years and attending every project with full preparation of the clients and customers as well.
+
+I am very confident to do work on your project, However to move further I need more details from your end about your project.
+
+
+SKILLS : React Native, Android Studio, Mobile App Development(Android, iOS), Flutter, Swift, Dart, Hybrid and Native applications, Objective C, Dart, Swift, iOS development. If you have any queries or difficulties in your project then feel free to contact me. I can resolve it in less time.
+
+Work Samples :
+SafeBuy
+Android app
+https://play.google.com/store/apps/details?id=com.likeness.safebuy
+
+
+Daalo App
+Android app link:-
+https://play.google.com/store/apps/details?id=com.daalo
+
+Roccabox App
+Android and iOS links:-
+https://play.google.com/store/apps/details?id=com.roccabox.roccabox
+https://apps.apple.com/us/app/roccabox/id1584103351
+
+
+If you want me to do the work on an urgent basis then I am also ready for doing that .
+
+If you award me the project I'd be very happy to discuss this further and get started for you as soon as possible.
+
+Thank you,
+Regards,

@@ -1,0 +1,10 @@
+Cover letter template
+Please customize and add more information to match your tech stack.
+
+
+Hello.
+I  have rich experience in writing web apps that span consumer productivity software to mission-critical financial trading platforms. 
+I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. 
+My deep full-stack experience includes Node.js and Express, MongoDB as well as more traditional technologies like PHP, ASP.NET.
+Recently, I have worked on several cryptocurrency projects piling up great knowledge on blockchain tech. 
+Thanks,

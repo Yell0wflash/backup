@@ -1,0 +1,35 @@
+1. find other's github project 
+
+git clone qqq 
+
+ 
+
+In project folder 
+
+2. git remote remove origin 
+
+ 
+
+3. git filter-branch -f --env-filter " 
+
+    GIT_AUTHOR_NAME='clever-web' 
+
+    GIT_AUTHOR_EMAIL='coreclever512@gmail.com' 
+
+    GIT_COMMITTER_NAME='superstar' 
+
+    GIT_COMMITTER_EMAIL='coreclever@gmail.com' 
+
+  " HEAD 
+
+ 
+
+ 
+
+4 . create git repository name = "ddddd" 
+
+git remote add origin https://github.com/clever-web/nft-contracts.git 
+
+ 
+
+5. git push --set-upstream origin master 

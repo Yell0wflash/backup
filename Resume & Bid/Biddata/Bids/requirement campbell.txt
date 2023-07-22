@@ -1,0 +1,546 @@
+M CST
+Software Development
+
+ 
+View Contract
+ 
+Schedule a meeting
+ 
+Record with Loom
+Sat, Dec 24
+Campbell Burgess 11:41 AM
+sorry... the database is mysql (not server)
+
+Cole Cancellieri 11:41 AM
+great. That is a perfect match for my skills.
+
+I know, LOL
+
+Campbell Burgess 11:42 AM
+Are you familiar with AWS implementations?
+
+Cole Cancellieri 11:42 AM
+Not really.
+
+Campbell Burgess 11:42 AM
+ok. How about docker?
+
+Cole Cancellieri 11:42 AM
+yes, I am familiar with docker container.
+
+Campbell Burgess 11:43 AM
+Do you work mostly on lunix or Windows?
+
+*linux
+
+Cole Cancellieri 11:43 AM
+I write codes on Windows and deploy my project on Linux servers.
+
+I am familiar with Linux.
+
+Campbell Burgess 11:44 AM
+OK.... on the project you sent me... let me ask some more questions.
+
+Cole Cancellieri 11:45 AM
+no problem.
+
+Campbell Burgess 11:47 AM
+When you establish a socket connection with the cient.... are you looping through all open connections (I opened 10 concurrent connections) or does node have 1 direct connection with each socket.... so, If there were 1,000 open connections, would you have to loop through all 1,000 open connections to know if a client entered data, or would a separate thread recognize that immediately?
+
+Cole Cancellieri 11:49 AM
+I don't need to loop through all 1000 open connections to know if a client entered data.
+
+And in fact
+
+Nodejs uses only 1 thread internally.
+
+Campbell Burgess 11:49 AM
+OK.... so we have a new project that I am also looking for help.
+
+Cole Cancellieri 11:49 AM
+It uses an asynchronous mechanism.
+
+no problem
+
+Campbell Burgess 11:50 AM
+Have you worked with internal queueing systems.... like, say, rabbitmq?
+
+Cole Cancellieri 11:51 AM
+yes.
+
+Campbell Burgess 11:52 AM
+OK.... so how would you set something like this up......
+
+We have 500 ATMs connecting to our datacenter.... we want those atms connecting to a given IP and port.
+
+When we get the message, we want to reformat the message, and then enter that into a Rabbit Q.
+
+Reading on the other side of the Rabbit Q is another node.js app... that reads the message, reformats the message, and then in a FIFO manner, submits that message to a network... like Mastercard or Visa..... however, those guys just accept messages, singularly, one after another.
+
+The app that submits to the network also reads from the network, one at a time, and when it gets a response back, it will write that response out to Rabbit.
+
+Now the original app that was first communicating with the ATM has to pick that message up from Rabbit, reformat based on the ATM type.... and then write a response back to the ATM.
+
+.... the entire thought is that on the front end.... because there are 500 possible ATMs submitting at once... they all have to be served... but on the Mastercard/Visa side, they only want messages one at a time.
+
+How would you construct that?
+
+Cole Cancellieri 12:01 PM
+ok
+
+let me explain my idea.
+
+Each ATM will have its own ID.
+
+when it submits a message to the 1st Node.js server, the message must include the ID of ATM.
+
+so through all processes, the message includes the ATM ID to distinguish the ATM.
+
+Campbell Burgess 12:07 PM
+Yes and no
+
+Cole Cancellieri 12:07 PM
+I think I need some time to design it more efficiently.
+
+Campbell Burgess 12:08 PM
+The initial message has the ATM id.... but as it works through the "system", we would substitute our own Id for the ATM id
+
+But yes.... there is some type of ATM id going to the network and then being returned.
+
+Cole Cancellieri 12:09 PM
+yes
+
+Campbell Burgess 12:10 PM
+The trick is.... the front end is multi-threaded.... the network side is single-threaded.... and so how does the return message... on the single threaded side... get passed back to the multi-threaded interface.
+
+that is on the database interface as well.
+
+databases can certainly receive multiple requests.... but they perform better single-threaded
+
+depending on the volume.
+
+Cole Cancellieri 12:11 PM
+The front end you are talking about is the 1st node.js app, right? Not a GUI with web pages. Then conceptions are a bit confusing.
+
+that's ok anyway
+
+Campbell Burgess 12:14 PM
+yes... all of this is tcp socket communication
+
+Cole Cancellieri 12:14 PM
+yes
+
+it has better performance than HTTP.
+
+less overload
+
+Campbell Burgess 12:15 PM
+yes
+
+how do you apply ssl to your node.js communications?
+
+Cole Cancellieri 12:16 PM
+for HTTP orTCP?
+
+Campbell Burgess 12:17 PM
+http
+
+....so the client is hitting "https://somedomain.com:1345"
+
+Cole Cancellieri 12:18 PM
+ok
+
+We can use 2 ways
+
+the 1st method is to use reverse proxy such as NGINX.
+
+the 2nd method is to add an SSL option such as an SSL certificate and private key when I create express-js sevrer.
+
+btw, is it test or consulting?
+
+Campbell Burgess 12:20 PM
+ok.
+
+test or consulting?
+
+oh.... test
+
+Cole Cancellieri 12:20 PM
+ok
+
+just joking. LOL
+
+because it is a bit long test.
+
+no problem
+
+Campbell Burgess 12:21 PM
+Sorry.... I always test.... we have standards that we want to apply... otherwise we go in very different directions.
+
+Cole Cancellieri 12:21 PM
+ok
+
+Campbell Burgess 12:21 PM
+It is fine to add this conversation to your hours
+
+we will have a lot of conversation
+
+Cole Cancellieri 12:22 PM
+no problem
+
+let's go on.
+
+Campbell Burgess 12:22 PM
+We are about at the end.
+
+Cole Cancellieri 12:22 PM
+sounds good.
+
+Campbell Burgess 12:22 PM
+Please send me your phone and email.
+
+Cole Cancellieri 12:22 PM
+will do
+
+and you need my resume as well, right?
+
+Campbell Burgess 12:23 PM
+Our CIO (Yvette Hamm) will be reaching out to you and confirming your position. We will want to execute a separate contractor agreement.... but we can pay everything through upwork.
+
+Yvette is not technical.... but she understand upwork.
+
+Cole Cancellieri 12:23 PM
+got it.
+
+Can we do it after Xmas?
+
+Campbell Burgess 12:24 PM
+Yep.... enjoy your Christmas. Thank you.
+
+Cole Cancellieri 12:24 PM
+It is Xmas Eve.
+
+thank you
+
+so
+
+I am considering if we can end the current contract with a good review.
+
+Campbell Burgess 12:25 PM
+Sure thing
+
+Cole Cancellieri 12:25 PM
+and how many hours will you pay for me?
+
+Campbell Burgess 12:25 PM
+You pick
+
+Cole Cancellieri 12:26 PM
+1 hour for the test project, 1 hour for this chatting, 2 hours total. 🙂
+
+Campbell Burgess 12:26 PM
+OK. enter that in
+
+Cole Cancellieri 12:27 PM
+done
+
+I will get back to you after Xmas. Enjoy your holiday. 🙂
+
+Campbell Burgess ended the contract
+
+ 12:29 PM
+View details
+Cole Cancellieri 12:31 PM
+Thank you for your time.
+
+Campbell Burgess 12:33 PM
+You too
+
+Remember to text me your details.
+
+Cole Cancellieri 12:33 PM
+Sorry but I am new to Upwork, where should I leave a review for you?
+
+Campbell Burgess 12:34 PM
+No clue.
+
+Cole Cancellieri 12:34 PM
+Sure thing
+
+Campbell Burgess Saturday 12:33 PM
+Remember to text me your details.
+
+When can I expect your feedback? I already left yours.
+
+Campbell Burgess 12:37 PM
+I think I already made it.
+
+Cole Cancellieri 12:38 PM
+ah, ok, thank you.
+
+see you next week.
+
+Campbell Burgess 12:38 PM
+OK... see you then
+
+Cole Cancellieri 12:47 PM
+Sorry for bothering you, but did you approve the 1 hr which exceeds the 1 hr weekly limit?
+
+I just checked the contract, and it seems like it is not billed.
+
+Campbell Burgess 01:10 PM
+I thought I approved 2
+
+I approved a timesheet that says 2 hours
+
+Mon, Dec 26
+Campbell Burgess 01:00 PM
+Are you going to be able to send me the information I requested?
+
+Cole Cancellieri 01:16 PM
+Sure
+
+https://drive.google.com/file/d/1IUuLccOb9kvp5g1qGgiOifSRUmB1mwfL/view?usp=sharing
+
+Campbell Burgess 02:32 PM
+Cole, I put a call in to you. Please give me a call.
+
+Campbell Burgess 07:38 PM
+Hey Cole.... just curious..... what does Upwork charge you on the platform when we make a payment?
+
+Cole Cancellieri 07:39 PM
+Well, 20%
+
+Campbell Burgess 07:39 PM
+...so on our payment of $40, you received $32?
+
+Cole Cancellieri 07:39 PM
+yup
+
+Campbell Burgess 07:40 PM
+Wow. That's a lot.
+
+Thanks
+
+Cole Cancellieri 07:40 PM
+So, when can we start?
+
+Campbell Burgess 07:40 PM
+Tomorrow
+
+Cole Cancellieri 07:41 PM
+Okay, I will wait for your NDA
+
+Are you going to send it via email?
+
+Campbell Burgess 07:42 PM
+Yvette will send the NDA
+
+Cole Cancellieri 07:42 PM
+okay
+
+It is not a full time position?
+
+Campbell Burgess 07:44 PM
+it is... but we need to see some performance first. Hopefully you can get there in a week.
+
+I am setting up some server access for you now.
+
+Cole Cancellieri 07:45 PM
+Okay, thank you
+
+I will be back in 1 hour.
+
+Cole Cancellieri 08:48 PM
+Hi, I am back
+
+Could you tell me about your project in detail?
+
+Campbell Burgess 08:57 PM
+Let's get on a phone call tomorrow morning for that. What is a good time?
+
+Cole Cancellieri 09:10 PM
+I'd prefer to chat. to note the details of the requirement.
+
+Tue, Dec 27
+Cole Cancellieri 07:28 AM
+Good morning.
+Could you please send me the requirements? I wanna have a document about it.
+
+Cole Cancellieri 09:54 AM
+Hi, Are you there?
+
+Campbell Burgess 09:54 AM
+Yes I am
+
+Cole Cancellieri 09:55 AM
+Could you send me the requirements/
+
+Campbell Burgess 09:56 AM
+They are not well documented. I'll see what I can pull together.
+
+Cole Cancellieri 09:56 AM
+no problem
+
+take your time
+
+Wed, Dec 28
+Cole Cancellieri 06:40 PM
+Hello, Are the documents ready?
+
+Campbell Burgess 07:47 PM
+No .. I will get to it .. since you asked... But documentation is one of my weaked points... So we will have to wait til I get to it
+
+I also do not function very well... Limiting myself to texting... So to call it out, you seem to be focused on a structure that I do not function well in... That is documentation and texting as a form of communication.
+
+Campbell Burgess 09:52 PM
+Cole... have you worked with Docker?
+
+Cole Cancellieri 09:53 PM
+Sure
+
+I have some experience with Docker
+
+If the document is not ready yet, Could you explain here via chat?
+
+Campbell Burgess 09:57 PM
+Sure.
+
+The 1st project.... we have a student website ....1098tforms.com
+
+1098-T Forms
+Home
+HEY, COLLEGE STUDENTS! ENROLL AND DOWNLOAD YOUR 1098-T IRS FORM. > > TO STUDENT ENROLLMENT PAGE For help enrolling and downloading your 1098-T form, click the link below for detailed instructions. >> TO INSTRUCTIONS
+On that website home page, you click to a portal..... "> > TO STUDENT ENROLLMENT PAGE "4
+
+That goes to portal.1098tforms.com
+
+That site is a docker site.
+
+It is actually https://portal.1098tforms.com/student-enrollment
+
+1098tforms.com - Student Enrollment
+The first thing I need you to do is to get inside that docker site and make some changes
+
+....and tell me what the connections are to the database
+
+I am thinking that you should be able to run a test docker site on a stand-alone linux server.... but I am very new to docker
+
+...remembering, If you do not know how to do something.. I need to know it
+
+Cole Cancellieri 10:04 PM
+okay, Can you share the docker image by google drive?
+
+Campbell Burgess 10:05 PM
+Let me set you up on my secure drive... hang on.
+
+Give me your email again, please
+
+Cole Cancellieri 10:05 PM
+wanderingpaladin
+
+it is my gmail account
+
+wanderingpaladin@gmail.com
+
+Campbell Burgess 10:09 PM
+OK... accept that invite... and I will post the docker
+
+Cole Cancellieri 10:10 PM
+sorry, wanderingpaladin116@gmail.com
+
+my mistake
+
+Campbell Burgess 10:10 PM
+Crap... Ok. Hold on
+
+Cole Cancellieri 10:10 PM
+😅
+
+Campbell Burgess 10:18 PM
+OK... you should have your invite
+
+...and the docker zip is there
+
+Cole Cancellieri 10:20 PM
+got it
+
+downloaded. What changes should I make?
+
+Campbell Burgess 10:23 PM
+Well.... can you launch it on your machine to see if it will respond to the "student-enrollment" with the same page?
+
+If so, I need you to tell me what it is doing when the student enters his first name, last name and ssn
+
+...and why it is so freaking slow
+
+...it may be slow because of the hosting server on my side
+
+Cole Cancellieri 10:25 PM
+got it
+
+let me check
+
+Cole Cancellieri 10:35 PM
+what is your node version?
+
+Campbell Burgess 10:36 PM
+no clue on that.... I think the date on that zip is 2020
+
+Shouldn't that be inside the docker?
+
+Cole Cancellieri 10:39 PM
+sure, it is the source code inside the docker image
+
+Campbell Burgess 10:39 PM
+OK... So I need the docker image. hmmmm
+
+Hang on
+
+Cole Cancellieri 10:39 PM
+okay
+
+Campbell Burgess 10:40 PM
+2.17.3
+
+is that a version?
+
+Cole Cancellieri 10:43 PM
+I don't think so.
+
+Campbell Burgess 10:43 PM
+...that may be the Amazon Linux version
+
+Cole Cancellieri 10:43 PM
+ok
+
+anyway share docker image
+
+Campbell Burgess 10:44 PM
+That is what I am trying to find. hang on
+
+I am phoning support
+
+Cole Cancellieri 10:46 PM
+ok, take your time
+
+Campbell Burgess 10:51 PM
+Client:
+Version: 20.10.7
+API version: 1.41
+Go version: go1.15.14
+Git commit: f0df350
+Built: Tue Nov 16 20:21:53 2021
+OS/Arch: linux/amd64
+Context: default
+Experimental: true
+
+Campbell Burgess 11:17 PM
+...I just spoke with our lead.... he said that you should be able to run this js natively on your machine.... but you will have to install some modules manually
+
+Cole Cancellieri 11:45 PM
+I installed the project on the local machine. I will check it and let you know the result soon.
+Good night.
+
+Campbell Burgess 11:45 PM
+Thanks. Good night

@@ -1,0 +1,5 @@
+I am a senior full stack blockchain developer experienced in web development and software engineering. I'm able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+-JavaScript, TypeScript, PHP, HTML, CSS, Tailwind CSS, C/C++, Solidity, Rust
+-React, Next.js, Redux, Node.js, Express, web3.js, CI, Laravel, GraphQL, Apollo
+-MySQL, MongoDB, PostgreSQL, Firebase
+-Figma, Webflow, Adobe XD, Adobe PS

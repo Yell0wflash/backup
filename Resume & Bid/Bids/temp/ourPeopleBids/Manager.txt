@@ -1,0 +1,21 @@
+Greetings,
+
+I have read the job description and I think I have all the expertise required for the job.
+I have been a full-stack web developer for 6+ years and have wide experience of web development.
+Especially I have rich experience in MEAN stack.
+And more specifically, I have project management experience back at my agency years ago, and I took charge of various project roles - including experience of leading 6~7 developers and designers on iOS/Unity3D projects.
+
+The main web skill sets of mine are as follows:
+-LAMP stack
+-Node.js, Express.js, Socket.io, Hapi.js, Sails.js Expert 
+-AngularJS, ReactJs and jQuery expert for front end 
+-Mysql, Mongodb, Postgresql expert for database development 
+-AWS, Heroku and Azure expert for hosting 
+-Version control: Github, Bitbucket
+
+I have project management skills along with profound knowledge of development to its core. (starting from ground level C/C++ to most Web technologies as well as Android/iOS native skillsets)
+I also have passed Cambridge Business English Certificate (BEC Higher) exam, and thus can form a seamless conversation flow with CEO and with the developers to get the requirements clear to the small bits (which is a very important aspect in a CTO's role).
+* Also a hard worker myself and I always do my best to fulfill my responsibilities *
+
+Ready to get interviewed and get on to the project.
+Best regards

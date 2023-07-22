@@ -1,0 +1,37 @@
+------------------------------my profile freelance Uros------------------
+Expert Web/Mobile app development/Blockchain/AI/MATLAB friendly
+
+Seeking out new technologies and staying up-to-date firmly on market&industry trends, I have possessed lots of golden skills and know-hows in diverging IT fields.
+
+As such an avid programmer with extensive experience on web development for 6+ years, I have expertised in Javascript, PHP, Python, to name a few. Recently I have been working to attain a strong foundation of Blockchain, Crptocurrency, Ethereum, Binance smart chain. 
+
+Also sufficient and concrete vision&skills into Mobile development with Android, ReactNative, Flutter, Ionic. So far have produced lots of error prone, highly skill based web/mobile app products.
+
+I am also very skilled and highly motivatd mechatronic engineer. Good knowledge and golden experience with Control, DSP, Image processing, NN, ML, AI, Matalb/Simulink, Arduino, etc. I am designing and simulating the project from scratch and give it a wonderful result based on the good coding style and algorithm.
+
+The following items are my skills.
+
+1. Website
+- PHP, Laravel, Node.js, Express.js, Python, Django
+- JavaScript, React.js, Vue.js, Next.js, Nuxt.js
+- MySQL, MongoDB, Postgres, and SQLite
+
+2. Mobile App 
+- Android, iPhone, Java, XCode/Objective-C
+- React Native, Hybrid, Flutter, Ionic
+
+3. Blockchain
+- Bitcoin, Ethereum(Javscript, Typescript), Solidity, Binance smart chain
+- cryptocurrency exchange system, cryptocurrency trading bot
+- Smart contracting with BEP20, ERC720 token
+- POS ssytem containing crptocurrency
+- blockchain protocol update BIP47
+
+4. MATLAB/simulink & embeded system
+- Control system design, DSP, Electronics, NN
+- Arduino programing, IOT
+- Tensorflow based machine learning
+- Raspberry PI develop
+- C/C++, C#
+
+Excellent communication availability 24/7

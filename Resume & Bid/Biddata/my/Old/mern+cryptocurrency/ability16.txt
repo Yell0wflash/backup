@@ -1,0 +1,150 @@
+Full Stack JavaScript (React.js/Node.js) Developer
+Specializes in Full Stack Development
+$50.00/hr
+Cheers, all!
+I'm a Full-Stack JavaScript developer digging my gold in React and Node.js for over 6 years.
+I have successfully worked in all phases of software development, where deep understanding and professional expertise of advanced React and Node.js developers are needed.
+Being equipped with rich skills in Full Stack MERN development, I'm 100% qualified for developing big and sophisticated Web and Mobile projects from scratch, producing perfectly documented and easily maintained source code, while paying attention to enabling peak performance at peak loads.
+In addition to my React and Node.js proficiency, I have in-depth expertise in:
+Front End Frameworks and Technologies:
+React-Material-UI, React-Bootstrap, React Desktop, Semantic-UI-React, Redux, Bootstrap, HTML5/CSS3, SASS, LESS
+
+Back End Toolkits:
+Node.js, Nest.js, Express.js, Firebase
+
+Databases:
+MongoDB, Redis, ElasticSearch, MySQL, MSSQL, Postgres, DynamoDB
+
+Version Control Systems:
+Git
+
+Test tools:
+Jest, Enzyme, Jasmine, Mocha
+
+Deployment:
+Docker, Ansible, AWS EC2, ECS, Heroku
+
+With all this being said, I'm ready to help you with developing software projects of any level of complexity as I am sure my professional background and skills will bring variety and performance to it.
+I can run my mouth about my professional and personal advantages for quite a while, but why won't you just call me and ask me about those in person? That will certainly work better for both of us
+
+less
+Work History 
+Completed jobs (13)
+Need agency for minor developments and maintanance for large community site (web/mobile app)
+Jul 4, 2017 - Dec 19, 2019
+No feedback given
+
+$18,483.34
+$25.00 / hr
+739 hours
+Full Stack - Java, Tomcat, Spring, Jquery, CSS
+Rating is 4.85 out of 5.
+ 4.85 May 11, 2018 - Oct 22, 2018
+"Very Talented Java developer"
+
+$15,562.50
+$25.00 / hr
+623 hours
+Developer React Native / Redux app mobile
+Feb 24, 2018 - Jun 3, 2018
+No feedback given
+
+$700.00
+Fixed Price
+Build an on Boarding Web App
+Nov 27, 2017 - Jan 28, 2018
+No feedback given
+
+$300.00 / week
+Weekly Retainer
+$11,540.00
+100 hours
+Update on existing Wheels/Rim app
+Rating is 5 out of 5.
+ 5.00 Jan 9, 2018 - Jan 12, 2018
+"Just like last time, great work!"
+
+$200.00
+Fixed Price
+Vaadin (Java) + Ionic developer for a customized order management solution
+Rating is 5 out of 5.
+ 5.00 Jun 14, 2017 - Sep 24, 2017
+"Without exception, the DoIT team did a great work. It raised concerns and improvements where the pre-defined tasks were suboptimal. The App-Store publication went absolutely smooth. In summary, the team offered a great value/price proposition."
+
+$7,595.00
+Fixed Price
+Programmer to help create forex trading platform.
+Jul 16, 2017 - Sep 14, 2017
+No feedback given
+
+$550.00
+Fixed Price
+Developer
+Jun 15, 2016 - Jun 7, 2017
+No feedback given
+
+$20,720.32
+$22.00 / hr
+942 hours
+React / Redux Developer
+Rating is 5 out of 5.
+ 5.00 Jun 14, 2016 - Jun 15, 2016
+$18.67
+$28.00 / hr
+1 hour
+React & Redux Frontend Developer
+Rating is 5 out of 5.
+ 5.00 Jun 1, 2016 - Jun 14, 2016
+"Fantastic. Am continuing to work with new projects."
+
+$1,124.67
+$28.00 / hr
+40 hours
+PaginationCurrent page 0 of 2
+Portfolio (4)
+RoomsterRoomster
+KARTUNIXKARTUNIX
+RetroTaxRetroTax
+PaginationCurrent page 0 of 2
+Skills & expertise
+Databases
+PostgreSQL
+MySQL
+MongoDB
+Full Stack Development Skills
+Node.js
+Express
+React
+RESTful Architecture
+jQuery
+Bootstrap
+Git
+Redux
+Full Stack Development Deliverables
+Customer Relationship Management
+Database Development
+Desktop Application
+Ecommerce Website
+Web Application
+Web Development
+Full Stack Development Languages
+TypeScript
+JavaScript
+SCSS
+ECMAScript
+SQL
+Sass
+HTML5
+CSS 3
+Business Size Experience
+Business with 100-999 Employees
+Business with 10-99 Employees
+Fortune 500 Company
+Startup Company
+Business with 1-9 Employees
+Business with 1000+ Employees
+Web Servers
+NGINX
+Apache HTTP Server
+Other skills
+Mocha ProNestJSJest

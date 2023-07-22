@@ -1,0 +1,72 @@
+Senior Full Stack Developer
+$20.00/hr
+TEAMLANCE is a full-service software development agency based in Europe with offices in 3 countries. We pride ourselves in dedicated software development by providing a dedicated project manager to all the projects in order to ensure quality and transparency.
+
+We have the resources to take any project at any time without affecting the deadline for any projects. We are highly experienced developers having expertise in handling the front-end, back-end, and mobile app development based on the client's needs.
+
+# Front-end Development:
+-React.js
+-Vue.js
+-Ember.js
+-Angular
+
+# Back-end Development:
+-Node.js
+-Express.js
+-Total.js
+-Rails
+-PHP (Laravel)
+
+# Mobile Development:
+-iOS (Swift)
+-Android (Java)
+-React Native
+-Meteor
+-Ionic
+
+# CMS:
+-WordPress
+-Magento
+-Shopify
+
+# Database:
+-MongoDB
+-MS SQL Server
+-MySQL
+-Oracle
+-DynamoDB
+-PostGreSQL
+-SQLite
+
+# CRM:
+-Salesforce
+-Zoho
+
+# Cloud:
+-Amazon Web Service
+-Google Cloud Engine
+-Microsoft Azure
+-DigitalOcean
+
+less
+Work History 
+Completed jobs (1)
+React Native + WordPress App Developer
+Rating is 5 out of 5.
+ 5.00 Aug 9, 2020 - Aug 25, 2020
+"I would highly recommend Zoran and his team. Great communication and always accessible. Thanks!"
+
+$700.00
+$20.00 / hr
+35 hours
+Skills
+Node.js
+React
+Swift
+iPhone App Development
+Android App Development
+Java
+Ruby on Rails
+PHP
+WordPress
+Drupal

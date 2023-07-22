@@ -1,0 +1,36 @@
+Cover letter
+Hello! From what I gathered, you need a seasoned full-stack developer and I feel like my skills will be well-suited for the solving of all your tasks as I have appropriate experience in the development of numerous web and mobile apps with sophisticated functionality which eventually became successful.
+
+Few words about me, I am Team Lead backend developer/solution architect for Requestum - a full-cycle development company (which allows us to take on all the project delivery stages), moreover, UpWork № 1 agency in Kharkiv making us one of the top UpWork agencies in Ukraine.
+To give you a better idea of our capabilities, I kindly ask you to check our agency's profile on UpWork with over 4M$ earned - https://www.upwork.com/agencies/~014e506c30e31fcaf0
+And our website - https://requestum.com
+
+As of right now, the vast majority of our company has moved to safety and given the circumstances, most of them want to get busy with something.
+So I would say our company operates at a high capacity right now.
+
+Please check a few examples of my previous works:
+
+1) https://maxcondoclub.com/ - This platform was created to help condo management better engage with condo residents, making it easy to educate residents on condo rules, update them on upcoming renovations, water shutdowns, parcel deliveries, booking extra parking space for their guests, and more. The MaxTV company is now operating in several locations across Canada and the US, serving over 1000 Property Management staff members and Boards of Directors, and over 250,000 condo residents.
+
+2) https://Tenafy.com/ - a platform for managing around 50-60 apartments in Hong Kong. Previously, our client used numerous tools to keep his affairs, eventually, it became quite complicated to track everything, so they reached out to us for help. We developed a comprehensive system that consists of several modules:
+- CRM to keep records of potential clients and arrange viewings;
+- Property and units module allows adding and editing new buildings and apartments
+- Leasing module with a calendar helps keep track of all existing leases, tenants, etc.
+- Payment module allows keeping and tracking of all payments like rent amount, utility bills, payment for damages, etc.
+- Accounting module helps to manage all finances
+
+This platform received a round of funding to expand, and any future iterations are sadly under a non-disclosure agreement, still, we can show you the first version of it, the final version didn't change to any drastic extent.
+
+https://www.behance.net/gallery/72625155/Tane-Residence-Web-App
+
+3) https://www.medicines.ie - a platform that serves for accurate, up-to-date, regulator-approved information on medicines available in Ireland. Its Database consists of 271 companies with a total number of 3208 medicines descriptions. Currently, this platform is widely used by all physicians around the country.
+
+(Sadly, designs for those were provided by a requesting company, I can link our Behance if you would like to see those)
+
+4) https://www.veeperapp.com/ - Veeper is a solution for eCommerce websites that provides a loyalty program for buyers, it offers discounts to users based on how often do they purchase. We've built an admin dashboard where businesses can manage and also see the performance of Veeper integration including average discount, average order amount, number of returning clients, etc.
+
+I’m keen to learn about the opportunity and discuss specific requirements, so please let me know of any other wishes that you require for this project and how I can help. Aside from that, I would suggest you make an intro call. What would you say?
+
+Happy to invite you for a cup of virtual tea or coffee to dive deeper into the details!
+
+Kind regards,

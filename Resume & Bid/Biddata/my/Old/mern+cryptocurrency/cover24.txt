@@ -1,0 +1,18 @@
+
+Here is the full case study:
+
+GenShards is a Marketplace for preIDO tokens for NFTs where companies can mint and publish their NFT. I have used Web3 for the development using React+ Node for GenShards. Genshards also have staking pools where users can stake GS tokens and get GS rewards when the pool ends. I was working with a smart contract developer over this project where he was handling the solidity development and I helped in development using React + Node along with crypto wallet linking.
+
+Also, like Opensea, Genshards also currently working on a marketplace for their unsold NFTs.
+
+**Questions:**
+
+Do you have a Blockchain Developer or team at the moment for this project?
+How the processes will be managed? Are we going to use any tool like Jira?
+
+Happy to connect with you and discuss this in brief for a better view. Accordingly, I can better answer your queries as well.
+
+Let's discuss complete details in the inbox!
+
+Kind regards,
+Ajay

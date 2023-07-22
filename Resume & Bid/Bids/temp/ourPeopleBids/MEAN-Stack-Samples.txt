@@ -1,0 +1,58 @@
+Please check attached api documentation which I had developed using nodeJS and mongodb for mobile app. http://cz-back2.herokuapp.com/
+
+https://www.shopboltnow.com
+https://app.launch.menu/
+https://success.prospectify.io/
+
+This is another MEAN API I've built recently. http://dashboard.fourthpartner.co:8008/documentation I've also got involved in the front-end development. http://dashboard.fourthpartner.co/#/
+
+taxliencloud.com
+
+Please review the following latest work samples to verify my skills and experience. https://www.thesportspredictor.com/new/ Old site URL:- https://www.thesportspredictor.com/ http://billericaycolts.grassrootspredictor.com/ Ionic Framework https://www.angieslist.com/ Drupal/PHP/API Development/React.js
+
+http://www.bouncehq.com/ (React, Ruby, jQuery, spin.js) http://postize.com (Angular) I used NodeJS , MongoDB for backend in above websites.
+
+https://mmabackendtest.herokuapp.com/ I have full experience node.js and Angular JS, especially express, mongodb. body-parser. This is a api for MMA beating mobile app. I developed this api using node.js and front end -> Angular JS. so I can develop your project in short days, Let's discuss ASAP.
+
+http://medsys.is:3001/explorer/ But I did not touch frontend. Source code is in the attached archive
+
+
+
+https://app.bizreprice.com It is a cloud-based algorithmic intelligent repricing and management solution developed using Amazom MWS services for online market sellers. Sellers can set prices, define strategies to update prices and rest is done by the application. This concept helps them to get edge over competition and increases their sales as well as profit margins. It optimize prices not just reducing the prices, which can take them to win the buy box. This is developed using MEAN stack as programming language such as MongoDB, Node.js, Angular.js along with third party APIs integration as MWS API, AWS API, Amazon SQS, FedEx API, PayPal Payment Gateway, Git. https://www.scheduleit.io/ Scheduling and Routing system for Insurance companies - System works to handle claims for Hurricane Sandy, fix appointments for the adjuster to handle different claims. 100 of claims are routed automatically by the route optimization way with less interval of time, which saves time of scheduler. Display all the appointment location (with routing) on the map. Displays and manage claims on the calendar. Report generation on the claims received, Insured information and billing management. (DEMO can be given if required over call). Developed using PHP, MySQL, AngularJS, HTML5, CSS3, JavaScript, jQuery, Web Services development, REST APIs, Mobile app development, TFS and Jira.
+
+
+Here, I would like share some of the projects that I have accomplished in MEAN stack Technologies like Angular js and Node js Respectively : 1. Node >> http://greeninitiatives.cn/ It is a CMS site built on top of node.js with express framework using jade template engine. In this site I used Yoopay payment system , Social media integration (Facebook/ Linkedin / Google ) for the users and mailchimp api intergration for newsletter subscription. >> http://robertnilsson.net/ The site shows all the photographs of freelancer Photographer Robert Nilsson. Currently in Stockholm and Shanghai. Its a real time, Dropbox storage content application which automatically refreshes the website whenever any content is changed. >> http://app.onepgr.com/ It is a real time screen sharing project management tool with abilities like google doc where different users can edit, Sending invitation to other users in ongoing session, Screen sharing and group chat. OnePgr facilitates provisions to overcome problems faced in group communications. Its functionality follows.... Audio & Video, Conferencing, Desktop Sharing, Chat & Presence, Cloud-based Viewer for Microsoft Office, Document storage and sharing. 2. Angular >> http://www.renteasy.hk/en 1. Landlord can post property on website with the complete details, pricing, photos etc. The listing process is integrated with Google Map to show the property address on map. Website offers different packages to post property. 2. Once the property is submitted, it goes to the admin for approval. 3. Once the property is approved, its becomes indexable for searching on the front end. 4. Tenant search the property using search parameters on homepage and listing page. 5. Property listing has listing view as well as map view. 6. Tenant can Ask Query from the landlord about the property 7. Tenant can Book Viewing and Make offer of the property 8. Admin has the full control of the properties listed and can manage the details 9. Admin can delist the property or suspend the user account >> http://skillstoknow.com This is an online video platform where the users can upload the videos on the different topics available on website. It is a knowledge sharing platform where the users ask questions and other users answers the video responses. It has been developed using Laravel with Angular.js as the front end. >> https://ratingrx.com/ I can show more examples, if required.
+
+itb.closetbox.com / api.closetbox.com escrow.domains / escrow.domains/api/v1
+
+http://www.zeroapp.email/
+
+www.logoworks.com www.mybooking.com www.litify.com
+
+I have built backends for these Mobile Apps using Node.js: https://www.phoodielife.com/ https://frienderapp.com/ http://switchez.us/ All of them are deployed using AWS EC2.
+
+
+1) www.munchado.com (Backbone, Node and REACT.JS) 2) www.globalrockstar.com (with Google Map API) 3) www.lybrate.com 4) www.sixthcontinent.com and www.daffodilsw.com/portfolio/social-networking-portal 5) www.applane.com (our inhouse products showcassed) 6) www.maydan.qa (Node.js, React.js) 7) www.emedinexus.com 8) www.epikko.com more links available on request..
+
+Some of the recent MEAN Stack with Front-end Designs work I have done is listed below for your kind consideration: http://clockoff.xyrintech.com/ http://leavehtml.xyrintech.com/
+
+Here are few MEAN applications on which I have worked: 
+http://getzyk.com (AngularJS/ReactJS, Finance and payroll management) 
+http://www.innovatemr.com (MEAN) (Innovate MR is a Survey Management system for different customers and provides the Suppliers/Users.) 
+http://rantcell.com (Node.js/Angular.js) (Rantcell provides the easy to use dashboard which manage cellular testing data for different providers captured by Rantcell mobile app) 
+http://www.bazeat.no:3000 Tech Used - MERN (MongoDB, Express, ReactJs, Node), Webpack, Babel, Redux, Stormpath, Axios for Ajax, ES6, Javascript, Jquery, Html, CSS, Bootsrap, Stripe 
+http://gradready.com.au/ Tech Used - Haml, Html, CSS, Javascript, Jquery, ReactJs, Postgres (DataBase) https://www.pointclub.com (NodeJS/Survey Tool) 
+http://www.surveysurfing.com (Angular2) (Survey portal for different type of Users). 
+Live URL - http://www.lim.global/ Staging URL - https://lim-frontend.herokuapp.com/ Tech Used - ReactJs, Javascript, Gulp, Docker, Browserify, Express, ES5, Jquery, Ajax, Ruby, Rails, Haml, Html, CSS, Postgres(DataBase)
+
+http://dev.sigsense.tech/swagger/index.html http://52.26.250.18:4444/ https://angle-on-rails.herokuapp.com/ http://www.istockphoto.com/ http://www.generosity.com/ http://www.indiegogo.com/
+
+-AngularJS http://roarkstudio.pl/ http://projectsunday.net https://www.insurancesafenz.com (Node, AngularJS, Kendo UI) Using Node/Express, I have built custom REST APIs and did some works related to routing. I prefer MongoDB to anything else because it's light and flexible to use.
+
+https://www.strv.com (React.js, Node.js)
+http://create.bang-olufsen.com (React.js, Node.js) 
+
+https://onemillionreasons.ch - all backend, frontend, 3D https://makers.getready.io
+
+Here some of my Angular+Node.js works: http://triby.co/ - Ionic, Angular, PostgreSQL, Node for back-end, REST API. I worked on MVP and back-end, and still supporting this app https://thepodyum.com/ - this football stat app . I worked on MVP. Stack - MEAN (Node +Angular + Postgres+ Express). http://www.banana-content.com/ - content management system and email sender based on Angular and Node
+

@@ -1,0 +1,66 @@
+★★★ Top skill ★★★
+- React, Typescript,  Laravel, Shopify, Wix, Woo-Commerce, Drupal, VueJS, ReactJS, Python, Django & web Design, Graphic Design
+
+★★★ Backend Development ★★★
+- Laravel & RESTFUL API
+- CodeIgniter
+- CakePHP
+- Django
+- Node.JS
+
+★★★ E-Commerce Development ★★★
+- Shopify
+- wix
+- Woocommerce
+- WordPress
+
+★★★ Frontend Development ★★★
+- HTML&HTML5
+- JavaScript & jQuery
+- Angular
+- React
+- Vue
+- CSS3
+- Bootstrap
+- Landing page
+- Responsive template
+
+★★★ Graphic Design ★★★
+-brochure design
+-Logo Design
+-Photoshop
+-Illustrator
+-coral Draw
+
+
+★★★ Database★★★
+- Oracle, MSSQL, MySQL, MongoDB
+
+★★★ My Benefits★★★
+- Very Fast Developing Speed.
+- I will change my work time to your timezone.
+- Deliver Daily or Weekly results.
+- Responsible communication for each day(24/7 online).
+
+★★★ FrontEnd ★★★
+
+• Vue.js (Vuetify, Quasar, Nuxt.js [SSR])        4 years
+• React.js + React Native (Material UI, Next.js) 5 years
+• TypeScript                                     5 years
+• HTML 5                                         8 years
+• CSS / CSS3                                     8 years 
+• Pug.js Template Engine                         5 years
+• Preprocessor - (SCSS, SASS)					 5 years
+• jQuery										 8 years
+
+★★★ Backend ★★★
+
+• Node.js (Express, Nest.js, Adonis.js)          5 years
+• PHP with OOP, Laravel (MVC design pattern), CodeIgniter 5 years
+
+★★★ Blockchain ★★★
+• Web3.js, Ethereum, Solana                      2 years
+• ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+• Crypto Collectible Platforms and NonFungible Tokens   2 years
+• Impermanent loss, governance tokens            2 years
+• P2P/Pool Lending and Borrowing                 2 years

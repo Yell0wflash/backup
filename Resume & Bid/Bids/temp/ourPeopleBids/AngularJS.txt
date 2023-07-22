@@ -1,0 +1,24 @@
+Greetings,
+
+I have read your job description and found that I can be the perfect match with all the required skills.
+My skillsets are as following:
+- Angular(1.x: 5+ yrs, 2: 2years,) 
+I have used Angular framework to create several large project from ground up and update some in progress.
+Then I got very interested in Angular2 since it makes heavy use of Typescript as a typing. Actually I think it enables Angular to overcome its non-typing issue, one of the critical drawbacks of JavaScript itself.
+I am very familiar with Angular ui bootstrap, Angular material and some material & bootstrap dashboard themes(Metronics, Fuze).
+- React(2+ yrs)
+I've been much experienced in React, Redux and Flux to boot.
+Actually I found React makes the project going successfully and running with great performance. I've worked on React bootstrap themes(Rubix, BeyondAdmin).
+- Related Techs
+Some of them are Task runners(grunt, webpack, gulp), JS preprocessor(Coffeescript), JS typing(Typescript), devOps(Babel), CSS preprocessor(Sass, Less, Bourbon), JavaScript utility libraries(lodash, underscore, linqjs) and Module loaders(ES6, ES7, commonjs, AMD, requirejs)
+- Testing Scripts
+I have best practise in JavaScript testing(Phantomjs, Casperjs) and unit test framework(Jasmine, Mocha, Karma).
+
+With my skills and experiences, I can develop your project perfectly on time.
+Looking forward to hearing from you.
+Best Regards,
+
+
+Please check the following site as a reference
+http://cupidus.ru
+https://frienderapp.com/

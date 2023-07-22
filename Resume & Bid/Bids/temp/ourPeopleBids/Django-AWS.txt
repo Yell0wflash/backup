@@ -1,0 +1,23 @@
+Greetings,
+
+I'm a technical Python developer. I have 4+ years experience in web and application development.
+I have a strong background in cloud-based solutions, API development, distributed computing, and prototyping utilizing Python and the Django Framework. I'm really good in HTML, CSS, Python, Django/PHP, AngularJS, Redis, Memcache, Postgresql & ElasticSearch.
+
+Having worked with many AWS services including deployment of several web apps to EC2/Lambda, I can manage the AWS instance professionally with scalability and low latency in mind.
+
+The good thing here is that I can work on both Django and frontend solutions (React, Angular, Vue, etc) - although it's not ideal to have someone work on both stacks in one project, it's always very useful to know the other side of the role so that I can make my stuff more integrable and well documented.
+I have a proactive attitude with sense of ownership and strong work ethics and having worked at various agencies in my career, acquired excellent organizational and time management skills.
+
+Please check the following websites as a reference to my recent work :
+
+1) https://runcompanies.com/
+The best platform for project management, hiring, time tracking, automated payments, and personal account managers that help you find the best employees.
+TECHNOLOGIES: Python, Django, Django REST Framework, Celery, Python Memcached, UnitTest (Nosetests), PostgreSQL, GIT, PayPal API, JavaScript, Twitter Bootstrap 3, jQuery, AJAX, Font Awesome, Gulp, SASS, Google ReCAPTCHA.
+2) https://www.credibase.com/
+Technologies: Backend: Django 1.8, Postgresql, ElasticSearch, Redis, Amazon S3, RQ, Pillow, Django Rest Framwork. Frontend: jQuery, Knockout.js, lodash, Typeahead, Masonry
+3) https://www.unomy.com/
+Unomy is a multi-purpose, business intelligence tool which comprehensively collects a huge amount of information about every online company from thousands of sources around the web, so that user and his business will be able to easily track, monitor and understand all of your competitors, clients, partners, affiliates and prospects and all other groups of companies you interact with.
+Technologies: JavaScript, Angular.js, Router, Restangular, UI-Bootstrap, Lodash, jQuery, Grunt, CSS, SAAS, Compass, HTML5, Material.
+
+Thanks for your read, ready to discuss more about the project during the interview.
+Best regards, 

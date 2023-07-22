@@ -1,0 +1,52 @@
+
+
+Hello,
+
+I have been working as a professional angular developer for 7+ years and I've gained rich experience with it in other companies.
+I am a full stack developer.
+Please review my portfolio if you have one moment.
+
+Frontend : HTMA, CSS, Bootstrap, Angularjs, Reactjs, Vuejs
+Backend: Django/Flask/Python, Nodejs, Expressjs, Laravel
+Database: Mysql, Mongodb, Redis
+
+I promise the best quality on time and 24h/7d communication.
+Also, I'll always work depending on  your timezone.
+I haven't ever made my employers angry who made a trust on me.
+Please contact me for further discussion.
+Best regards
+
+
+
+
+
+-Angular
+Hello, 
+I am a full stack developer extensively working on backend and frontend development. 
+I have been extensively using AngularJS as frontend layer,
+I design custom views with bootstrap (twitter and angular-bootstrap). 
+I have also developed custom directives and filters using node.js backend API. 
+Also I have been extensively using SlickGrid or Angular UI Grid .
+I follow all the best practices and we have expertise over advanced AngularJS concepts like Reusable Directives, Custom Components, Interceptors, Factories, Services. 
+
+
+Hi How are you?
+I am a senior full stack developer with 6+ years experience.  
+Particularly, I am talented at ReactJS/AngularJS framework 
+Please check out my recent Angular projects to get a rough idea of my relevant skills. 
+
+https://blog.eduonix.com/
+http://sellercrowd.com
+
+
+I am a GIT and JIRA expert with good collaboration experience and working styles.  
+I keep a strict eye on pixel perfectionism of UI/UX design, and always stick to result-driven working manner with great attention to detail, periodic thorough code review, and critical thinking.  
+The best quality, accurate timeline, free and polite after-service are what I guarantee to my clients. 
+I can start the work right now!!  
+Regards.
+
+
+
+
+
+

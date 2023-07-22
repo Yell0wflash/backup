@@ -1,0 +1,149 @@
+Full Stack Developer
+Specializes in Full Stack Development
+$65.00/hr
+Hello, Upworkers!
+
+I'm a seasoned full-stack developer based in Kharkiv, Ukraine, with more than 11 years of commercial experience.
+
+💡Skills:
+
+✔️Programming languages: PHP, JavaScript, Python
+✔️Technologies: HTML, CSS, SOAP, REST
+✔️Methodology: BDD, TDD, CI
+✔️Frameworks and libraries: Symfony, Laravel, AngularJS, ReactJS, PHPUnit, Node.js, Flask, Django, jQuery, Doctrine ORM
+✔️Cached tools: Memcached
+✔️Version Control Systems: GIT (with GitHub, Bitbucket, GitLab)
+✔️Queue broker: RabbitMQ
+✔️DB Engine: MySQL, MSSQL, PostgreSQL, Redis, MongoDB
+✔️Continuous integration: Jenkins Ci, Mink
+✔️Payment systems: Paypal, Stripe, Braintree
+✔️Servers: Apache2, Nginx
+
+💡Additional Tech / Soft skills:
+
+🔥 Solid knowledge in OOP, Design Patterns (MVP);
+🔥 Knowledge of modern PHP libraries and tools;
+🔥 Strong understanding of programming patterns and algorithms;
+🔥 Experience with a huge number of frontend & backend technologies;
+🔥 Expertise in server-side optimizations and general algorithms;
+🔥 Ability to perform in a fast-paced agile environment;
+🔥 Ability to work as both a team member and independently;
+🔥 Strong analytical and problem-solving skills
+
+My passion stands for developing Property Management Systems, CRMs, Marketplaces, and E-commerce platforms from scratch.
+
+I’ll be able to help you define functionality and features for MVP as well as outline a roadmap for the future and provide efficient support for all-time project live.
+
+My main goal - is to build software, you'll be proud to use.
+
+less
+Work History 
+Completed jobs (9)
+In progress (3)
+Automated UK Route Planner Mobile App Development
+Rating is 4.55 out of 5.
+ 4.55 Aug 10, 2021 - Jan 23, 2022
+$8,880.01
+$40.00 / hr
+222 hours
+Nextcloud webapp development
+Rating is 5 out of 5.
+ 5.00 Jul 7, 2020 - Feb 4, 2021
+$1,260.00
+$35.00 / hr
+36 hours
+PHP Developer (#003)
+Rating is 5 out of 5.
+ 5.00 Nov 29, 2020 - Dec 1, 2020
+"Max is a great PHP developer, hands down. He helps in a number of complicated projects. Great guy."
+
+$460.00
+Fixed Price
+Property Management system for MaxTV
+PHP/MySQL Developer for Rest API (001)
+Rating is 5 out of 5.
+ 5.00 Dec 15, 2019 - Oct 19, 2020
+"Thank you for your job well done Maxim!"
+
+$7,180.84
+$35.00 / hr
+205 hours
+Web Developer (003)
+Rating is 5 out of 5.
+ 5.00 Aug 7, 2019 - Oct 19, 2020
+"Maxim did great work for us. Very thankful for his help on this project!"
+
+$7,559.99
+$35.00 / hr
+216 hours
+Property Management Website
+Rating is 5 out of 5.
+ 5.00 Feb 27, 2018 - Jun 11, 2019
+$19,250.00
+Fixed Price
+Development needed for lottery mechanism
+Rating is 4 out of 5.
+ 4.00 Apr 12, 2018 - Aug 6, 2018
+$6,060.00
+Fixed Price
+Looking for a developer to migrate our Web Application and database from MongoDB to PostgreSQL.
+Rating is 5 out of 5.
+ 5.00 Jun 5, 2018 - Jul 18, 2018
+"Nice to work with Max. He has great skills. Hope to work with him again soon!"
+
+$1,490.00
+Fixed Price
+Jurnez Project Code Review
+Rating is 5 out of 5.
+ 5.00 May 14, 2018 - Jun 7, 2018
+"PHP 7.2 (Symfony) backend development.
+Perfect communication, top-notch quality. Accurate estimates for the task.
+Pleasure to work with, highly recommended.
+Totally will work together again on the future milestones and projects."
+
+$1,250.00
+Fixed Price
+Portfolio (7)
+Tenafy Property Management SystemTenafy Property Management System
+TuitionTuition
+MustangChainMustangChain
+PaginationCurrent page 0 of 3
+Skills & expertise
+Full Stack Development Deliverables
+Project Analysis
+Web Application
+Database Architecture
+Custom PHP
+API
+API Integration
+Database Design
+Database Development
+Web Development
+Web Servers
+Apache HTTP Server
+NGINX
+Full Stack Development Skills
+AngularJS
+Laravel
+React
+Symfony
+Django
+SaaS
+Flask
+Git
+Full Stack Development Languages
+CSS
+Python
+PHP
+JavaScript
+TypeScript
+HTML
+SQL
+Databases
+Redis
+MongoDB
+MySQL
+SQLite
+PostgreSQL
+Other skills
+PHPUnitOCR AlgorithmStripeGoogle APIsDoctrine ORMProperty ManagementAPI DevelopmentVideo ProcessingImage ProcessingMemcachedSeleniumRESTful API

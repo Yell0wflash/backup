@@ -1,0 +1,22 @@
+Hi,
+
+I’m very interested in your job posting, happy to come across. I believe I can be the right candidate based on the required job skills. I’m making my assumptions based on mentioned technologies. I have wide experience in Javascript and PHP along with other libraries that should be helpful during the process.
+
+I am a full-stack developer with proficiency in both front end and back end technologies. I have worked with HTML, CSS, Bootstrap, Zurb Foundation, Javascript, jQuery, ReactJS, PHP, OOP, CodeIgniter, Laravel, MySQLi, MariaDB, PostgreSQL. I have managed to develop wide range of websites, including development of data analysis platform, ecommerce websites. I have many websites that I created from scratch.
+
+Also, I have experience with API integrations, KendoUI, HighCharts, graphic design as well. I possess good skills at Photoshop and Illustrator. I’m pretty handy with CMS like WordPress, OpenCart, OctoberCMS. If there are other technologies to learn for the project I will master them quickly.
+
+I'm very easy to get along with, I’m responsible and reliable. I value client's time (of course mine too) and money.
+
+Please check the following websites as reference to my previous eCommerce works :
+
+https://www.impericon.com (Magento)
+https://www.mondoconv.it (Magento)
+https://supacaz.com (Woocommerce)
+http://lsfabrics.com (Drupal)
+https://woolbar.com (Ruby)
+http://preminternationals.com (Laravel)
+
+Let's discuss further on the project.
+
+Sincerely,

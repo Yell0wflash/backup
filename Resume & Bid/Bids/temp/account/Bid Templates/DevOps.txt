@@ -1,0 +1,350 @@
+Hi,
+
+Thanks for your job posting.
+
+After reading the job description, I am so confident to implement your requirements perfectly.
+
+I am a certified DevOps Engineer with 3+ years of hands-on experience supporting, automating, and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes.
+
+I am responsible for create and maintain fully automated CI/CD pipelines for code deployment using Octopus Deploy and PowerShell Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches,   and scaling
+
+In the past, I have
+- Wrote Puppet manifests and modules to deploy, configure, and manage servers
+- Automated build and deployment using Jenkins to reduce human error and speed up production processes
+- Reduced deployment time for critical agile project infrastructure from ~1 month to 2 days
+- Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status
+- Managed GitHub repositories and permissions, including branching and tagging
+
+My SKILLS for DevOps engineering
+- Configuration management using Ansible, Terraform, Puppet and Chef
+- Knowledge of Ruby on Rails, Python, PHP and C++
+- Version control systems: Git, Subversion, and Perforce
+
+I am available for 24/7 support and can work on your time zone if you want during our contract.
+
+Regards,
+Vincent
+
+########################################################################
+
+Hello there,
+
+I hope you're doing great!
+
++ Proficient skilled DevOps and Python Engineer with strong knowledge of AWS backed up with 8+ years of proven experience.
+
++ Hands-on experience in code/cloud deployment, CI/CD pipelines, GitLab, Jenkins, IAM, Bash Scripting, CDN, Hosting, DevOps tools, Ansible, Terraform, robust monitoring, Web security, automating or maintaining infrastructure, with deep understanding of cloud networks and other instances.
+
+* Previous work done:
+1. https://www.clever-assistance.com/ - we designed and configured the backend architecture of this project.
+-- MongoDB Atlas, Laravel, Vue.js, PHP, Terraform, CI/CD pipelines, Jenkins, Lambda, Ansible, Docker, EC2 instance, ECS component, ECR, Node Clusters, AWS.
+-- Buildkite, Cloudformation, Gitlab, Elasticsearch, Serverless RDS, Microservices ,Terraform
+
+2. https://www.go2020.world
+-- Kubernetes infrastructure using Grafana + Prometheus
+-- Configure, monitor, and automated cloud-based service Amazon Web Services.
+-- Configured ELB with EC2 Autos calling groups
+-- Utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test deploy.
+-- AWS RDS, PHP, Jenkins, Ansible, ECS component, AWS Lambda, Security
+
+3. https://outsized.com [Python, Django, React JS, NextJS, MongoDB, AWS]
+
+** Our Happy Clients: https://bit.ly/39oJbGA
+
+Let's connect and discuss in detail.
+
+Many Greetings,
+Vincent
+
+########################################################################
+
+Hello,
+
+As a senior DevOps engineer, I have been working on CI/CD, Auto-Creating/Scaling VM images, Load Balancing, and Containerization for last 5 years and have rich experiences with Docker, Kubernetes, Ansible, Terraform, HashiCorp Packer, Github Action, Jenkins Pipeline, AWS(ECS, EKS, EBS, ELB, EFS, CloudFormation, S3, Lambda, etc)
+
+My past experiences are following
+• Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication. 
+• Provided policies to groups using policy generator and set different permissions based on the requirement along with providing ARN (Amazon Resource Name) 
+• Hands on experience in monitoring EC2 instances using Nagios. 
+• Configured Nagios to monitor EC2 Linux instances with puppet automation. 
+• Upgrading and migrating Chef Server and Cookbooks, Bootstrap processes. 
+• Maintaining automated environment using Chef recipes and cookbooks. 
+• Configured Apache webserver in the Linux AWS Cloud environment using Puppet automation. 
+• Configured S3 versioning and lifecycle policies to and backup files and archive files in Glacier. 
+• Created monitors, alarms and notifications for EC2 hosts using Cloud watch. 
+• Utilized Cloud watch to monitor resources such as EC2, CPU memory, Amazon to design high availability applications on AWS across availability zones 
+• Extensive knowledge on writing and deploying modules in puppet. 
+• Implemented service layer on top of Cassandra using Restful API. 
+• Configured Elastic Load Balancers with EC2 Auto scaling groups. 
+• Configured and monitored distributed and multi-platform servers using Nagios. 
+• Experienced with Puppet Installing Nginx, removing packages updating packages. 
+• Implemented service layer on top of Cassandra using Restful API. 
+• Managing Puppet with GIT, Distributing Puppet Manifests. 
+• Chef manages Web App Cookbook using Server, Scripting, Database. 
+• Chef manage both Datacenter and multiple Cloud Environments, accelerate cloud adoption. 
+• Configuration management tool such as Puppet Chef and Chef Engine. 
+• Efficient Architecture to Ansible Modules PLUGINS and API. 
+• Creating the Docker containers and Docker consoles for managing the application life cycle. 
+• Working on Jira for issue tracking. 
+• Implementation of various agile framework/tools for DevOps like ELK (Elastic Search), Docker based CI/CD framework, High-scaled and distributed computing environment. 
+• Install and configure the application servers such as Apache Tomcat and JBoss for application deployment, and automated using Chef Manifests. 
+• Set up JENKINS server and build jobs to provide continuous automated builds based on polling the GIT. 
+• Administered and managed a Splunk server to monitor both Windows and Linux, physical and virtual environments. 
+• Implemented new ELK cluster for enterprise logging and Maintained. 
+• Installation of Solaris 8, 9 based servers with Jumpstart and Redhat Linux EL 4.x based servers using Kickstart development, test and production environments. 
+• Integration of GIT with Jenkins to automate the code check-out process with the help of Jenkins DSL Plugin. 
+• Configured Apache webserver in the Linux AWS Cloud environment using Puppet automation.
+
+With my strong experiences I am definitely sure I am a right guy you are looking for.
+
+Looking forwaed to work ongoing for your projects.
+
+Regards
+Enea
+
+########################################################################
+
+Hello,
+
+As a senior DevOps engineer, I have been working on CICD, Auto-Creating/Scaling VM images, Load Balancing, and Containerization for last 5 years and have rich experiences with Docker, Kubernetes, Ansible, Terraform, HashiCorp Packer, Github Action, Jenkins Pipeline, AWS(ECS, EKS, EBS, ELB, EFS, CloudFormation, S3, Lambda, etc)
+
+- Expertise in writing Ansible Playbooks from scratch using YAML functions and utilizing setup and automate the CI/CD pipeline and deploy microservices. Provisioned load balancer, auto-scaling group and launch configuration for microservices using Ansible.
+- Experience in working with Ansible Tower to manage multiple nodes and manage inventory for different environments and automated the cloud deployments using Ansible, and AWS Cloud Formation Templates.
+- Expertise in deploying Ansible playbooks in AWS environment using Terraform as well as creating Ansible roles using YAML.
+
+Looking forwared to work ongoing on this project.
+
+Regards
+Enea
+
+########################################################################
+
+Hi,
+
+I have read your proposal and understood what you want to do.
+
+I am a member of a team for developing cloud solution since 2013. We are very familar with AWS, GCP, etc.
+
+We have enough experience with cloud solution including IaaS, PaaS, SaaS etc.
+
+As you know, for cloud solution, we have to use many applications and they're working with together by calling api.
+
+Nowadays, most apis are Restful API.
+
+Now, we are developing our erp systems which will be run on our cloud platform and we are using python.
+
+I believe that I can do your project perfectly.
+
+If you want, let's have a contact and discuss in details about your project.
+
+I will wait for your interview.
+
+Regards
+Enea
+
+########################################################################
+
+Hi,
+
+In response to your latest job posting I am here to apply for the post of Developer position. I have an excellent background as a Developer along with my academic education in Computer Science and Technology. 
+
+The experience and my academic education have provided me with some outstanding and technical skills.
+
+I firmly believe that these qualities make me different from the rest of the contestants
+
+Personally I am a senior full stack engineer & blockchain expert and started to learn Pascal/C/C++/Java/PHP since 12 years old.
+
+I have rich experience in these fields. I am working in these fields for 12 years, so I have enough confidence in this project.
+
+* Skills
+* Backend
+- C / C++ / C# / Java / Ruby on Rails / Go / Rust / Python / Microservices/ AWS
+- Node.js / Express.js/ Graph QL
+- SQL / NoSQL /MongoDB / Oracle / DB2 / MSSQL
+- Android / Flutter / React Native / Swift / Ionic
+
+* Frontend & Framework
+- React / Angular / Electron JS / Gatsby JS / Vue JS / Next JS
+- HTML5 / CSS3 / Bootstrap / jQuery / Ajax
+- WordPress / Magento / Prestashop / Opencart/Zen Cart / Shopify/Moodle/Drupal
+
+*Firewall and IDS
+-iptables, snort
+
+*Blockchain and Cryptography Expert
+-Rust/ Solana/ Solidity/Web3.js
+
+*Data Analysis
+-Data Mining/Big Data Processing
+-Apache Hadoop/Apache Spark
+
+Looking forward to doing business with you.
+
+Regards.
+Ensar
+
+########################################################################
+
+Hello,
+
+I can provide you with DevOps support as per your requirement. We as a team can also assist you with the development of E-Commerce, Web/Mobile App design, Customized Software, Branding, UI/UX, Logo design & more. With expertise in Backend (.NET, NodeJS), Frontend (Angular, ReactJS, Vue.Js), Android/iOS, Hybrid Mobile App (Flutter/Dart), AWS, Azure, AI/ML, Relational and NoSQL databases & more as we have resources & team who works dedicatedly with requirements.
+
+Some of our work details:
+1. Evidence Management Platform https://visualogyx.com
+2. ECommerce Platform https://hyperpure.com
+3. Financial Analysis System https://quantivevaluations.com
+4. Accounting Solution https://vatscanplus.co.uk
+5. Sports Club Management System https://www.gametime.net
+6. Realtime Whiteboarding Solution https://huddleiq.com
+7. Logistics Management Platform https://www.grindrod.co.za
+8. Art Management Platform https://teetra.com
+9. Test Assessment Platform https://questy.xyz
+
+You can also check our open-source projects on our GitHub account https://github.com/devcryabit
+
+Many thanks,
+
+########################################################################
+
+Hello, Nice to meet you.
+I have developed some NFT minting, NFT marketplace, defi sites in Ethereum, BSC integrated with web3js, etherjs using react, vue frameworks.
+I have an experience of making my own NFT for arts and deploying it, minting NFT with Ipfs' uri and synchronize with Opensea.
+I have an experience in making a tool generating images from layers with various traits and rarities.
+I am good at solidity for building smart contract with truffle, remix.
+I have read your project's requirement carefully.
+I am sure that I will complete this project perfectly in time and trying to improve more and more.
+I am ready to start now for you and I will do my best if you hire me.
+Please contact me and discuss more detail.
+Please take a peek at these apps that I have developed:
+https://www.cryptodragons.com/
+https://knownorigin.io/
+https://www.airnfts.com/nft/music-nft
+Best Regards.
+
+########################################################################
+
+• Importing the data in Splunk through inputs.conf. 
+• Installation, configuration and administration of Continuous Integration tool Jenkins and integrated with GERRIT. 
+• operating system on multiple machines using Kick Start. 
+• Build servers using AWS, importing volumes, launching EC2, RDS, creating security groups, auto-scaling, load balancers (ELBs) in the defined virtual private connection. 
+• Used Puppet for automation and scheduling automated jobs. Redesigned and redeployed the Nagios implementation. 
+• Implementing GIT merging to create collaborative environment with the development team with the help of TFS (Team Foundation Server). 
+• Created Chef Cookbooks for Sudoers and Network Configuration using Chef Server. 
+• Deployed applications on AWS by using Elastic Beanstalk. 
+• Used Ansible server and workstation to manage and configure nodes. 
+• Configured plugins for the integration tools to the version control tools. 
+• Manage source code, software builds, software versioning, & defect tracking on software maintenance tasks/projects. 
+• Chef manages the Cluster, shared credentials, generates Chef-Server configuration and maintains secure communication to be a part of front end group. 
+• Created monitors, alarms and notifications for EC2 hosts using Cloud Watch. 
+• Involved in DevOps processes for build and deploy systems. 
+• Created Python scripts to totally automate AWS services which includes web servers, ELB, Cloud Front distribution, database, EC2 and database security groups, S3 bucket and application configuration, this script creates stacks, single servers, or joins web servers to stacks. 
+• Docker Accelerate the path to the modern App Architecture, IT Infrastructure Optimization
+
+########################################################################
+
+Responsibilities: 
+• Used Puppet to manage virtual machines with Vagrant & firewalls with IPTables. 
+• Implemented one click deployment using Chef, AWS and implemented a completely elastic and scalable infrastructure in the cloud using Jenkins, chef, Puppet. 
+• Worked on creating the Docker containers and Docker consoles for managing the application life cycle. Worked on various Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry. 
+• Implemented and managed Splunk monitoring and reporting infrastructure 
+• Defined branching, labeling, and merge strategies for all applications in GIT. 
+• Experience in designing and deploying AWS Solutions using EC2, S3, EBS, Elastic Load balancer (ELB), auto scaling groups and OpsWorks 
+• Worked at optimizing volumes and EC2 instances and created multiple VPC instances. 
+• Experience working on User admin groups, maintaining account and monitoring system performance using Nagios. 
+• Ability to design applications on AWS taking advantage of disaster recovery. 
+• Performed hands on routing and switching.
+
+########################################################################
+
+• Configured AWS Identity and Access Management (IAM) Groups and Users for improved login authentication. 
+• Provided policies to groups using policy generator and set different permissions based on the requirement along with providing ARN (Amazon Resource Name) 
+• Hands on experience in monitoring EC2 instances using Nagios. 
+• Configured Nagios to monitor EC2 Linux instances with puppet automation. 
+• Upgrading and migrating Chef Server and Cookbooks, Bootstrap processes. 
+• Maintaining automated environment using Chef recipes and cookbooks. 
+• Configured Apache webserver in the Linux AWS Cloud environment using Puppet automation. 
+• Configured S3 versioning and lifecycle policies to and backup files and archive files in Glacier. 
+• Created monitors, alarms and notifications for EC2 hosts using Cloud watch. 
+• Utilized Cloud watch to monitor resources such as EC2, CPU memory, Amazon to design high availability applications on AWS across availability zones 
+• Extensive knowledge on writing and deploying modules in puppet. 
+• Implemented service layer on top of Cassandra using Restful API. 
+• Configured Elastic Load Balancers with EC2 Auto scaling groups. 
+• Configured and monitored distributed and multi-platform servers using Nagios. 
+• Experienced with Puppet Installing Nginx, removing packages updating packages. 
+• Implemented service layer on top of Cassandra using Restful API. 
+• Managing Puppet with GIT, Distributing Puppet Manifests. 
+• Chef manages Web App Cookbook using Server, Scripting, Database. 
+• Chef manage both Datacenter and multiple Cloud Environments, accelerate cloud adoption. 
+• Configuration management tool such as Puppet Chef and Chef Engine. 
+• Efficient Architecture to Ansible Modules PLUGINS and API. 
+• Creating the Docker containers and Docker consoles for managing the application life cycle. 
+• Working on Jira for issue tracking. 
+• Implementation of various agile framework/tools for DevOps like ELK (Elastic Search), Docker based CI/CD framework, High-scaled and distributed computing environment. 
+• Install and configure the application servers such as Apache Tomcat and JBoss for application deployment, and automated using Chef Manifests. 
+• Set up JENKINS server and build jobs to provide continuous automated builds based on polling the GIT. 
+• Administered and managed a Splunk server to monitor both Windows and Linux, physical and virtual environments. 
+• Implemented new ELK cluster for enterprise logging and Maintained. 
+• Installation of Solaris 8, 9 based servers with Jumpstart and Redhat Linux EL 4.x based servers using Kickstart development, test and production environments. 
+• Integration of GIT with Jenkins to automate the code check-out process with the help of Jenkins DSL Plugin. 
+• Configured Apache webserver in the Linux AWS Cloud environment using Puppet automation.
+
+########################################################################
+
+• Installation of Ubuntu and RHEL operating systems. 
+• Installation and configuration of Webserver (Apache 2.2.17), MySQL 5.5 and PHP in a LAMP stack. 
+• Involved in design, configuration, installation, implementation, management, maintain and support for the Corporate Linux servers RHEL 4.x, 5.x, SLES 9, CENTOS 5.x. 
+• Installation of patches and packages using RPM and YUM in Red hat Linux. 
+• Design and test a Disaster Recovery solution for all business-critical applications and systems, including Linux and Solaris systems. 
+• Provided support for server and workstation upgrades, backup and disaster recovery monitoring, user account setup and security administration. 
+• Set up administer user and groups accounts, setting permissions for users. 
+• Assisted in upgrading RHEL 5.0 to RHEL 5.5 and RHEL 5.5 to RHEL 6.0 using live upgrade and manual upgrade. 
+• Installation, configuration, support and security implementation on DNS, DHCP, NFS, HTTPD. 
+• Used LVM for the management of logical volumes including creation of physical volumes in Linux. 
+• Created disk partitions and file systems and extended storage space using Logical Volume manager. 
+• User Group creation, monitoring and maintaining log for system status/health using Linux commands and Nagios system monitor. 
+• Yum and apt get package management. 
+• Capacity Assessment for new requests of servers i.e. calculating CPU and Memory for servers to the current/future requirement. 
+• Documented the procedures and standards for other administrators to follow.
+
+########################################################################
+
+• Involved in design, configuration, installation, implementation, management, maintain and support for the corporate Linux servers RHEL 3, 4, 5, CENTOS 5-8, Ubuntu. 
+• Assisted in upgrading RHEL 5.0 to RHEL 5.5 using live upgrade and manual upgrade. 
+• Installation of patches and packages using RPM and YUM in Red hat Linux. 
+• Configuring SUDO and granting root permission to users for performing certain activities. 
+• Installation, configuration, support and security implementation on following services 
+• HTTPD: Apache web server maintenance, installation, configuration, managing web hosting including name based, secure and private site, monitoring web server performance, certificate generate, security checks and periodic upgrades, manage user accounts, back up. 
+• Good understanding on OSI model, TCP/IP protocol suite (IP, TCP, FTP, SMTP, UDP, SNMP). 
+• Managed Network troubleshooting applications TCP/IP including Ethernet, IP addressing & Sub netting, routing. 
+• Troubleshooting and monitoring the machines 24x7. 
+• Experienced in scripting for automation and monitoring using Shell and Python scripts. 
+• Experience in administering, installation, configuration, support and maintenance of Linux 
+• Responsible for writing/modifying scripts using bash, SSH for day-to-day administration. 
+• Modified Kernel parameters to improve the server performance in Linux. 
+• Creation of Logical volumes (LVM) for Linux operating systems. 
+• Supporting Application Team, Storage Team, DBA Team at OS system level. 
+• Performed troubleshooting of DNS, DHCP and Active directory. 
+• Using tools like WinSCP, FTP, FileZilla for transferring files from virtual machines to servers. 
+• Worked on implementing SSL and Root Certs to all the trust stores of applications. 
+• Worked on configuring web servers like Apache Tomcat, Nginx, and JBoss. 
+• Expertise in different environments like SUN SOLARIS, Linux and Windows 
+• Environment: Bash, Shell scripts, RedHat, Putty, Apache Tomcat, Apache webserver, Nginx.
+
+Skills
+Amazon Elastic Compute Cloud (6 years), CHEF (6 years), EC2 (6 years), APACHE (4 years), DATABASE (4 years)
+
+########################################################################
+
+Additional Information
+❖ TECHNICAL SKILLS 
+Cloud Services 
+Amazon Web Services: EC2, S3, ELB, Auto scaling, Elastic Beanstalk, Cloud Front, Cloud Formation, Elastic Filesystem, RDS, DMS, VPC, Direct Connect, Route 53, Cloud watch, Cloud trail, IAM, SNS. 
+ 
+Virtualization VMware Client, Datacentre Virtualization, Virtual Box, KVM, 
+Operating Systems Red Hat Linux 4/5/6/7, Windows servers [2003, 2008, 2008 R2, 2012, […] Windows 2000, XP, Windows 7, Solaris, Ubuntu […] 
+Automation Tools Chef, Puppet, Docker, Vagrant, Ansible, Jenkins, Kickstart 
+Web Servers Apache Tomcat, JBoss, Web Logic, WebSphere 
+Database Technologies Oracle, SQL Server, MySQL 
+Scripting languages Shell, Ruby, Python, Perl
+
+

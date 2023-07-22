@@ -1,0 +1,11 @@
+Hi, I am Šimon Šiška from Slovakia.
+I just read your job posting and I think I can be a ideal candidate to your project because I am good at Yii2 framework and I can work on your timezone.
+As a professional web developer, I started web development using PHP and have done many projects using Yii2.
+I am good at Yii2 framework components and several widgets so that can build backend using that while I can tackle any kind of issues on developing backend using this.
+As a javascript expert, I am good at React and love to use Redux workflow so I can build independent and user-friendly front end using that.
+Also have got some experiencese with Elastic Search while I love to deploy Projects on AWS EC2, Beanstalk etc.
+So I can meet your requirements perfectly and can provide good result to you.
+I am looking forward to have more discussion with you and can start working right now.
+Thanks
+
+

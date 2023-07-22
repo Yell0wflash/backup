@@ -1,0 +1,344 @@
+Hi,
+
+Please review my github profile https://github.com/devcryabit
+
+I've 7+ years of experience in Ruby on Rails, Restful API, third-party API integration, PostgreSQL, Heroku, AWS, Git, testing automation, unit testing, web development, design, customization, and deployment. I've developed many full-stack web-based or API based user-friendly and fully responsive web application from scratch
+
+Services:
+• Requirement analysis and estimation
+• Develop new application from scratch
+• Full stack and API application development
+• Full test coverage using RSpec
+• Responsive and mobile-friendly design using Twitter Bootstrap / Zurb Foundation
+• Html, CSS, Less, Sass, JavaScript, JQuery, AngularJS, ReactJs, VueJS
+• Bug / Error Fix
+• Add new feature or improvement in an existing application
+• Application deployment using Apache/Nginx as a web server and Phusion Passenger/Puma as an application server
+• Deployment in Heroku, Digital Ocean, Linode, Amazon S3, etc. platform
+• Ubuntu, Redhat, CentOS, etc. Linux based server deployment
+• MySQL, PostgreSQL, MongoDB, MySQL etc as database
+• Application deployment using Capistrano
+• I will help you with Ruby on Rails installation/configurations
+• In Time Delivery
+• 100% Reliable
+
+Please allow me to discuss in more detail the message to understand the core vision and requirements of the project so that I can provide you precise quote and time frame and deliver you the high-quality work you wanted with your complete satisfaction.
+
+Looking forward to hear from you soon.
+
+Regards,
+Vincent
+
+*************************************************************************************
+
+Hello,
+
+Thanks for your job posting.
+
+After reading the job description I am pretty sure I am a right guy you are looking for.
+
+As a senior full stack web developer, Ruby on Rails is main stack for building the strong backend. 
+
+Please review my github profile https://github.com/devcryabit
+
+I have been working with ruby on rails over 5 yrs and worked with several teams for some large-scale web application.
+
+I am very strong at so many rails gems and can deliver the best practice of ruby code.
+
+I am also a senior devops engineering, so I can implement the server optimization and successful CI/CD pipeline including the successful TDD/BDD specs.
+
+I can work on your business hours perfectly, so you will feel comfortable during our communication.
+
+Looking forward to hear from you soon.
+
+Regards,
+Indrit
+
+*************************************************************************************
+
+Hello,
+
+Thank you for your job posting.
+
+After reading the job description I am sure I am a  right developer you are looking for with my strong background.
+
+Regarding your requirements
+I have been working with RoR over 5 years and I've committed for 20+ rails projects.
+
+I am very strong at Elixir/Phoenix/Redis/Invoker/Spring/Assets Pipeline and mastered at so many rails gems, CI/CD because I am also a senior devops engineer, and mostly used the capistrano+puma/passenger+nginx/apache on the several VPS such as AWS, GCP, Digital Ocean and Linode, etc.
+
+I can write the clean code and used the RSpec/Capybara for TDD/BDD.
+
+You will be delivered the successful CI/CD pipeline and I can deliver the best practice.
+
+Please have a look at my Ruby on Rails links:
+http://thegestureshop.com/
+https://www.dabadoc.com/
+https://heathmatthewsphysio.com/
+https://www.phi360.de/
+... ...
+
+I can start immediately once you hire me and available full time for 6 months at least.
+
+Looking forward to hear from you soon.
+
+Regards,
+Enea
+
+*************************************************************************************
+
+Hi,
+
+I am a senior full-stack RoR Developer with over 5 years of experience working with a variety of technologies and have excellent communication skills.
+
+I am well proficient in working with Web app development, enhancement, fix bugs, maintenance, design, and deployment. I love the process of writing clean code combined with thoughtful design to create user-friendly applications.
+
+I have good hands-on working with Ruby, Ruby on Rails, React JS, Node JS, Javascript/jQuery, TDD, Postgres/MySQL, HTML/HAML, CSS, ElasticSearch, PostgreSQL, RESTful, and SOAP APIs. I'm familiar with the best programming practices and Agile/Scrum project development as almost every project I worked on has been developed with the use of Scrum.
+
+I would love to have the opportunity to discuss your project with you soon.
+
+Looking forward to hear from you soon.
+
+Sincerely,
+Vincent
+
+*************************************************************************************
+
+Hi,
+
+I am a senior full stack web developer and I am very strong at so many stacks.
+
+Please review my github profile https://github.com/devcryabit
+
+I am pleased to be applying for the Web Developer position. My extensive experience with designing and developing websites using Ruby, PHP and Python for web development and devops engineering matches well with your requirements. In addition, my background with working in large development teams has given me the skills to adjust to the changing dynamics and processes of those environments while meeting scheduled milestones and deliverables.
+
+In my previous experience at Cloud Clearwater, I developed several web-based applications for a project management software client. These cloud-based applications tracked and managed information technology project information for several of the world's largest financial companies. I was involved in the design and development process for all applications, and I managed enhancement requests after each rollout.
+
+I am a proven team player, which is another important requirement for this position. I was recently voted by my peers to receive Cloud Clearwater's Distinguished Developer Award for exhibiting ideal teamwork traits, including reliability, good communication, commitment, adaptability, and going above and beyond what is asked.
+
+Management also recognized my accomplishments in meeting project deliverable deadlines over 99% of the time, exceeding expectations by 5%.
+
+Thank you for taking the time to review my credentials and accomplishments. I am very passionate about being a competent and contributing team player, and I hope to have the opportunity to discuss my examples in greater detail with you.
+
+I look forward to answering your questions and learning more about this position and your development teams.
+
+Sincerely,
+Ihor
+
+************************************************************************************************************************
+
+Hi,
+
+After reading the job description carefully I am so confident to deliver the bset practice regarding your requirements.
+
+I am a extremely well-trained and skilled Ruby on Rails developer with vast experience in web design for a variety of corporate clients. Adept at adjusting work pace to satisfy evolving client needs. Superb record of project completion at or well before deadlines.
+
+CORE QUALIFICATIONS
+Excellent Ruby on Rails development experience
+Exceptional knowledge of Ruby on Rails framework
+Strong experience in using Ruby on Rails in a UNIX/LINUX environment
+Outstanding experience in developing web applications
+Superior written and oral communication skills
+Proven multitasking ability.
+
+I can work on your timeozne perfectly dring our contract, so you will feel so comfortbale.
+
+I can start immediately once you hire me and avaialble full time including over the weekend.
+
+Looking forward to hear from you soon.
+
+Regards
+Enea
+
+************************************************************************************************************************
+
+Hi,
+
+I hope this note finds you in great spirits. Please note the synopsis of the resource working with directly.
+
+I am a senior full stack developer having 5 years of experience. I have worked with so many remote teams for 20+ Rails projects as a senior developer and deployed on AWS and Heroku mostly.
+
+As also a senior DevOps engineer and aws solution architect I am confident to deliver the best service for your rails application. Very strong at AWS and Linux/Ubuntu server administration and docker, kubernetes, ansible and terraform.
+
+Skills:
+• Working experience in Ruby (1.9.x~3.x) Working experience in Ruby on Rails (Rails 3.x~7.x)
+• Very good knowledge of the several API integration for multicurrency
+• Good experience of Spree Commerce
+• Knowledge of Development tool chat, pivotal tracker, asana, JIRA, Trello, GitHub
+• Expertise in ReactJS, VueJS, AngularJS, jquery, and javascript. (Jasmin, Protractor as well)
+• Experience in HTML 5, HAML, CSS, and SASS Database
+• knowledge MySql, Postgres, MongoDB, and SQLite
+• Cloud: AWS (EC2, Route 53, S3, CloudWatch, DynamoDB), Azure, Heroku, DigitalOcean
+
+I am an individual freelancer and looking for a long-term contract with my successful delivery.
+
+Please have a look at the following projects I've done before
+http://thegestureshop.com/
+https://www.dabadoc.com/
+https://heathmatthewsphysio.com/
+https://www.phi360.de/
+... ...
+
+I hope to discuss this further in detail.
+
+Regards,
+Enea
+
+************************************************************************************************************************
+************************************************************************************************************************
+
+Hi there,
+
+I am a full-stack rails developer with hands-on experience in designing, implementation, requirement engineering, and solution architect.
+
+I have a bachelor's degree in software engineering, as well as 4 years of industry experience. I have worked as technical lead on different projects, which includes ruby on rails API as well as full-stack projects.
+
+I have been working with service-oriented architecture (SOA), sandboxing, web security, software as services.
+
+I have developed a keen eye for detail and strong problem-solving skills while working on different aspects of software development. I have worked alone on different projects and a team of up to 15 people.
+
+I am familiar with setting up the daily scrums, standups, designing sprints, and requirement engineering. Managing different projects on Trello, asana, Version Control (GitLab, GitHub, bitbucket).
+
+I am also familiar with cloud infrastructure such as Alibaba, Aws. Setting up the Virtual Private Cloud, load balancer, CI/CD, CodeDeploy, etc.
+
+Looking forward to hearing from you.
+
+Regards,
+Enea
+
+************************************************************************************************************************
+
+Hi,
+
+I'm a Senior Ruby on Rails (RoR) developer with more than 7 years of background in development.
+
+If you're looking for a reliable Ruby on Rails (RoR) that will communicate well, write clean code, regularly update you and will not let you down - contact me, I would gladly help you ;)
+
+Here are the technologies we use:
+-️ Ruby, Ruby on Rails (RoR), Sinatra, Sharetribe, Capistrano
+-️ JavaScript (incl. Vue.js, Angular, Ember.js, Node.js, React.js);
+-️ MySQL, MongoDB, PostgreSQL;
+-️ HTML, CSS, SASS, LESS, BootStrap, jQuery
+-️ DevOps
+
+Note that if you don't see a specific technology here - that doen't mean that I don't work with it ;)
+
+I can work either in your team or independently.
+
+And here is what we can work on:
+- API Development
+-️ SaaS – platforms
+-️ Web-apps
+-️ CRM-systems
+-️ ERP-tools
+-️ ECommerce marketplaces
+-️ Analytical systems
+-️ Mobile apps
+-️ Web design
+
+Thanks
+Enea
+
+************************************************************************************************************************
+
+Hi There, from brief I summarize that you need a Ruby on Rails developer for ongoing work Right? Sure I've Kinldy check the attachment. Please award me the project so that we can discuss it more. I am a Full Stack Engineer with 15 years of experience. 
+
+✓complete pos including purchase, sale, inventory, vendors, employee management and reports. It will be like KYTE app on play store.
+✓Data Will be stored online and synced across devices.
+✓Sale, inventory, customer, purchase, vendors, employees and reporting in one app and data storage in cloud that can be synced. Online and offline app will work.
+✓Technology: React Native
+✓ Both Platform Android and iOS
+✓ Web app + Admin Panel
+
+✓ POS system (Point-Of-Sale)
+https://drive.google.com/drive/folders/1YDFh37uMqKC6m4gTWAA5i1uRmsE29zkB?usp=sharing
+
+interested in your project and also ready to start immediately.
+will wait for your reply
+
+Thank you
+
+************************************************************************************************************************
+
+Hi there,
+
+Ruby Experience: 4+ years
+
+I am a full-stack rails developer with hands-on experience in designing, implementation, requirement engineering, and solution architect. I have a bachelor's degree in software engineering, and Masters in Computer science.
+
+I have been working with service-oriented architecture (SOA), sandboxing, web security, software as services.
+I have developed a keen eye for detail and strong problem-solving skills while working on different aspects of software development. I have worked alone on different projects and a team of up to 15 people.
+I am familiar with setting up the daily scrums, standups, designing sprints, and requirement engineering. Managing different projects on Trello, asana, Version Control (GitLab, GitHub, bitbucket).
+I am also familiar with cloud infrastructure such as Alibaba, Aws. Setting up the Virtual Private Cloud, load balancer, CI/CD, CodeDeploy, etc.
+
+Looking forward to hearing from you.
+
+Regards,
+Ali
+
+************************************************************************************************************************
+
+Hello,
+
+I am not a seasoned developer. I am a reliable full-time hard-working developer.
+
+I am a senior ROR engineer with 5+ years of experience.
+
+So far, I have worked on various projects such as big commerce, fintech, dating, Q&A, CRM, Video Streaming, etc.
+
+I gained almost ROR framework, and I have rich experiences and deep knowledge in Software Development, AngularJS, RRO, HTML5 and MySQL.
+
+I can complete your project before your deadline and offer you the best quality code.
+
+I can start working immediately and can work in your timezone.
+
+Please send me a message so we can discuss further.
+
+Best regards,
+Ensar
+
+************************************************************************************************************************
+
+I'm an experienced Javascript Fullstack Web Developer . I have more than 5 years of professional experience.
+
+I have experience working with the following technologies:
+
+Javascript ES6 - Node.js 10 - Express/Fastify - HTML5 - CSS3 - jQuery - Bootstrap - MySql - SQL Server - Mongo DB - Postgres - AWS - Firebase - React.js - React Router - Redux - Hooks MandoxFirebase@gmail.com, MandoxNFT1!
+
+While looking forward to increase my knowledge and expertise in:
+
+Devops Operations, CD/CI, Docker, Kubernetes, GCP, Project Managment, Projects Arquitecture and folder structures, Next.js, Gatsby, Webpack, Babel, Prettier, ESlint, to name a few.
+
+************************************************************************************************************************
+
+Hello,
+
+I am interesting in applying for this job.
+
+I am a senior full stack web developer and RoR is my main stack with 5+ yrs exp.
+
+Skills:
+ 
+
+I can work full time if you want and start immediately once you start the contract.
+
+Looking forward to hear from you soon.
+
+Regards,
+Indrit
+
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************
+************************************************************************************************************************

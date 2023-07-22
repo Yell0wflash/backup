@@ -1,0 +1,122 @@
+--> WordPress/WooCommerce/E-Commerce/ website Development
+--> Front-end Skills such as HTML5, CSS3, JS
+--> Back-end Skill such as php, MySQL, Javascript, JQuery
+--> Frameworks (Bootstrap 4/5, Foundation, SCSS)
+--> WooCommerce Shopping Cart Development
+--> WordPress eCommerce Store Design & Development
+--> Site migration to WordPress & WooCommerce
+→ and Experience with Elementor, seed prood, Braver Builder
+→ CMS: WORDPRESS , MAGENTO , DRUPAL
+→ Programming Language : JAVA , JAVASCRIPT,PYTHON
+→ E- commerce Platform : woocommerce, shopify, magento,Prestashop
+
+
+
+
+My Skills Set -
+* WEB UI/UX Design
+* APP UI UX Design for iOS and Android
+* User Interface Design
+* Social Media Post Template Design
+* Logo and Brand Design
+
+Tools I Used :
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe XD
+* Figma
+
+------------------skills-----------------------------------------------------
+Following are the major working technologies platform of ours:
+Design Technologies: UI/UX, Photoshop, XD, CorelDraw, Illustrator, Sketch, Figma
+Hybrid Technologies : Flutter, React Native, Ionic
+Frontend Technologies : C# , Angular, AngularJS, ReactJS, HTML, CSS, JQuery
+Backend Technologies : Java, .Net, Node.js, PHP
+CMS Technologies: WordPress
+Native Technologies : iOS, Android
+
+
+--------------------skills-----------------------------------------
+
+When it comes to my skills, what I can develop is:
+
+✅Website from scratch
+✅Customization of theme
+✅Custom Plugin
+✅Maintenance of site
+✅Revamp of site
+
+I'm an expert in the following languages:
+➡️PHP
+➡️MYSQL
+➡️HTML
+➡️CSS
+➡️JAVASCRIPT
+➡️JQUERY
+
+Designing in:
+☑️HTML
+☑️XHTML
+☑️DHTML
+☑️HTML 5
+☑️CSS2/3
+☑️Bootstrap
+
+Cooperation with me gives you:
+✅Unlimited Revisions!
+✅Guaranteed quality!
+✅Quick coping in situations!
+✅Deadline oriented!
+✅24/7 online!
+✅CHEAP AS POSSIBLE!!!
+
+
+-------------------------------Why choose me for designing?------------------------------
+
+1) Whenever we proceed on product design we properly keep in mind our client competitor's designs and workflows to make it more productive.
+
+2) After complete marketing research we then engage our clients with standup meetings involving their suggestions as well.
+
+3) I am  not only designers they are working on application designs for more than 4 years so they can suggest whether this thing is going to make trouble with the perspective of development or not.
+
+4) We work on Photoshop, Figma, Adobe Xd, and InVision as well.
+Purpose:
+To support and exceed client expectations through creating a user-experienced focused creative design for any platform by developing the concept design that exceeds client expectations.
+
+Ecommerce single vendor Website :
+https://pier400cafe.com/
+
+https://www.thejuliafashion.com/
+
+Ecommerce Multi Vendor website :
+https://www.howclip.com/
+https://bubibu.ch/
+
+
+FEATURES LIST:
+-home
+- product
+- my order
+- check postage
+- terms
+- contact us
+- profile
+- cart
+
+Admin menu : - dashboard
+- master data
+- slider data
+- account data
+- product data
+- category data
+- clerk data
+- customer data
+- application terms and conditions
+- orders
+- orders have not been processed
+- orders have not been sent
+- orders are being sent
+- orders completed
+- messages
+- reports
+- application settings

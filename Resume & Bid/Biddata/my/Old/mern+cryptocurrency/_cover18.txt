@@ -1,0 +1,33 @@
+Cover letter
+Hey,
+
+If you are seriously looking for a full-stack developer who can work on your project based on your needs then your search must stop here as our team has awesome developers who are well experienced in developing websites/portals using different technologies. So just share your requirements in more detail If there is any other too or share your more preferences with me so that I can start working immediately after understanding the work's scope.
+
+Further, let me tell you that I am the co-founder of an agency and we've completed many web/mobile-based projects on a company level from scratch by satisfying our clients. Also, note that we’re able to allocate the developers to work directly with you on a monthly basis or on a fixed project basis with dedicated project management from our end as well If you need an individual developer only.
+
+Though some of the good projects links are in the portfolio from where you can get a quick overview of the work, still let me throw some light on a few good projects below:
+# Tixio: Award-Winning Productivity Platform
+Web URL: https://tixio.io
+Technologies: Redux for JavaScript, Node.js, Socket.io, MongoDB, React.js
+Description: Tixio is an award-winning tool to organize every one of your web platforms, tools, and sites that people use on a daily basis. It features an internal Wiki tool with an advanced categorization along with a variety of 3rd party storage integrations like Google Drive, OneDrive, and Outlook.
+
+# Akeeva: Commemorate your loved ones, everlasting
+Web URL: https://akeeva.co/
+Technologies: Node.js, ReactJS, PostgreSQL
+Description: Akeeva is modernizing the way we commemorate our loved ones by providing users the ability to create free online memorials and family archives, raise funds to cover expensive funeral and burial costs, notify family and friends of important gatherings, and order sympathy gifts seamlessly. The passing of a loved one is already a difficult time in one’s life. Akeeva makes the process easier, less costly, and more time-efficient for all and protects the memories of the ones we hold dearest.
+
+# Jumbea: Real-Time Chat, Calendar, Deals, and More
+Web URL: https://jumbea.com
+App Store: https://apps.apple.com/us/app/jumbea-uni-timetable-more/id1474064069
+Play Store: https://play.google.com/store/apps/details?id=com.jumbea&hl=en
+Technologies: Node.js, React Native, React.js
+Description: Jumbea is the first platform designed for students to enable them to have all the tools to succeed in their studies and personal growth.
+
+# BidExport: Real-Time Auction Marketplace
+Web URL: https://bidexport.com/
+Technologies: AngularJS, Node.js
+Description: BidExport is a Real-time Auction Marketplace for salvage cars that are for export from the USA to Europe.
+
+For better understanding, Can you please initiate the message box so that we can discuss the requirements? We can also hop on a quick call as per your suitability If it suits you. I am available to discuss this right away. Let me know your best suitable time to discuss this so that I can make my availability as per your convenience.
+
+Cheers!!

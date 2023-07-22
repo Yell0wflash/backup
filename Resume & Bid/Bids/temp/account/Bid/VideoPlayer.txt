@@ -1,0 +1,7 @@
+Hi, good job. I have many experience in Video player videojs,Mux.js,Wowza service, Hls.js,Dash.js.
+And also I know well JavaScript (ES6/ES7+, Babel), Typescript.
+And I have good coding skill so I can create robust , clean code.
+And I know well TCP/IP,UDP and also Websocket,Socket IO.
+I had done many projects by using Videojs and Mux.js for live stream video player such as TV guide.
+So I can help you very well. I am looking for more detail interview with you!
+Thank you!

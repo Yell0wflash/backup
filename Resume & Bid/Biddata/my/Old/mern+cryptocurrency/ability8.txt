@@ -1,0 +1,126 @@
+React-Native|React | Angular |Vue Js|Expo|Jest| Enzyme | mobileApp|Web
+$55.00/hr
+Software engineer with focus on cross platform web and mobile development. I have experience in working on both large and small scale applications. Passionate about everything mobile. Always striving to learn the latest trends and best practices in the industry to deliver highly optimized apps with premium user experience. Having worked on both back-end and front-end, I specialize in developing applications that have high conversion rates.
+
+I develop applications that help deliver your business goals.
+
+Technology Stack:
+- React, React-Redux, React-Router
+- React Native
+- Node.js
+- Jest
+- Storybook
+- Redux-Saga, Redux-Thunk
+- AngularJS, Angular
+- HTML5, CSS and ES6/7 JavaScript
+- CSS Preprocessors: SASS, LESS
+- SQL
+- Bootstrap/Material UI/Tailwind/Styled Components
+
+less
+Work History 
+Completed jobs (10)
+In progress (1)
+Senior React Native Engineer
+Rating is 5 out of 5.
+ 5.00 Feb 9, 2022
+$1,000.00
+Fixed Price
+Frontend Test
+Rating is 5 out of 5.
+ 5.00 Jan 24, 2022 - Jan 26, 2022
+$60.00
+Fixed Price
+Senior React Native Developer
+Rating is 5 out of 5.
+ 5.00 Mar 8, 2021 - Mar 9, 2021
+Freelancer's response
+"Thank you so much for your feedback"
+
+$140.00
+$35.00 / hr
+4 hours
+OL-React
+Rating is 5 out of 5.
+ 5.00 Feb 9, 2021 - Mar 1, 2021
+"Working with Adnan was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach. Time after time, and without us asking, he added enhancements and improvements that resulted in a better end product for us and our clients."
+
+$1,558.33
+$25.00 / hr
+47 hours
+React Native Developer
+Rating is 5 out of 5.
+ 5.00 Dec 4, 2020 - Feb 10, 2021
+"Adnan is great at transparent communication and also very independent. I can give him as much, or as little, direction as I have and he is able to achieve the goals without issue."
+
+Freelancer's response
+"Thank you so much for your feedback. It means a lot to me"
+
+$1,384.67
+$31.00 / hr
+45 hours
+Mobile app development for a dating app in React native
+Rating is 5 out of 5.
+ 5.00 Jan 16, 2021
+"Good job!"
+
+Freelancer's response
+"Thank you so much for your feedback.It means a lot .Thank you for your bonus"
+
+$30.00
+$30.00 / hr
+Upgrade React Native app to a new version
+Rating is 5 out of 5.
+ 5.00 Nov 14, 2020 - Nov 23, 2020
+"I'm very pleased with Adnan skills to deliver his job on-time, even before than I planned. I enjoyed working with him; he is a skilled developer and he has good communication. So I would like to work again with Adnan on next projects without a doubt. Thank you very much."
+
+Freelancer's response
+"Thank you very much for your amazing feedback"
+
+$450.00
+Fixed Price
+React Native Developer
+Rating is 5 out of 5.
+ 5.00 May 20, 2020 - Oct 11, 2020
+"Adnan is very proactive in helping me research the best solutions for our problems. He is a great independent worker who requires minimal guidance to accomplish tasks. He has helped us develop a great mobile iOS and Android application!"
+
+$1,768.50
+$31.00 / hr
+58 hours
+Just fix a button: not working in staging env but working in development env
+Rating is 5 out of 5.
+ 5.00 May 16, 2020
+"Great job! Solved the problem."
+
+$195.00
+$65.00 / hr
+3 hours
+React Native Developer
+Rating is 5 out of 5.
+ 5.00 Feb 28, 2020 - May 10, 2020
+"Adnan is very good with communication and is responsive. He worked efficiently to get the tasks done and even offered to help with other tasks which he proactively saw needed to be done. He is an independent worker and does not need much direction to get the tasks completed."
+
+$544.00
+$17.00 / hr
+32 hours
+Portfolio (3) 
+HumMart is an e-commerce Platform built in react native which comprises of various features like payment gateway for providing payment services and product list for buying products as per your desire.This amazing app was made with amazing idea of buying groceries online in different places.It is a top place idea which worked and is trending for pakistan citizens.
+Ecommerce App
+clickmallclickmall
+mevris Iot platform
+Skills
+React
+React Native
+Vue.js
+Angular 2
+JavaScript
+Redux
+HTML
+CSS
+Storybook
+Bootstrap
+NestJS
+GraphQL
+Native App Development
+NativeScript
+Flutter

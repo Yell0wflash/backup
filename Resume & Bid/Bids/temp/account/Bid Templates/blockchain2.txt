@@ -1,0 +1,23 @@
+https://topflightapps.com/ideas/how-to-make-a-private-blockchain/
+
+https://softwaremill.com/what-is-private-blockchain-why-do-you-need-it/
+
+https://geth.ethereum.org/docs/interface/private-network
+
+https://limechain.tech/blockchain-development/private-blockchain-development/
+
+https://merehead.com/blog/how-to-create-private-ethereum-blockchain/
+
+
+https://www.irisnet.org/docs
+
+
+https://www.arhamsoft.com/portfolio#crypto
+
+
+
+https://www.holdex.finance/
+
+https://nucoin.com.au/
+
+NuGenesis is a fully completed native blockchain originally built for Government and transnational corporate applications. In the context of building a blockchain for Central Bank Digital Currencies (CBDC’s), and an exchange clearing house for settlement, limitations to scaling and speed, latency and reliance on human miners and validators had to be eliminated. Security had to be enhanced, its integrity underscored by Artificial Intelligence (AI) and carbon neutral in its efficiency.

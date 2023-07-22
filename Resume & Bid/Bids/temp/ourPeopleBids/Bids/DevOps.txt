@@ -1,0 +1,14 @@
+Greetings,
+
+I have read the job description and think I have all the expertise required for the job.
+
+I have DevOps experience back at my agency, and I took charge of various project roles - including experience of leading 6~7 developers and designers on iOS/Unity3D projects.
+
+I also have profound knowledge of development to its core. (starting from ground level C/C++ to most Web technologies as well as Android/iOS native skillsets)
+
+Especially, I'm skilled in MEAN, MERN and LAMP stacks.
+
+I usually use Bitbucket for the source code & deployment management.
+
+Ready to discuss further and get started immediately.
+Best regards, 

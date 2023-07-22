@@ -1,0 +1,30 @@
+Greetings,
+
+I've read your job posting and feel that I am the perfect match for this as I have all the skills required.
+
+- I use ES6/ES7 with babel to write clean, easy-to-follow code.
+- Github/bitbucket for source code management.
+- Mocha/chai as a unit testing framework and codeship for auto testing & deployments.
+- All my codes will be eslint free with many inline comments.
+
+I am very well-versed in agile approach in project development and really love to add my creativity to the overall project implementation.
+
+Also, having worked as a database administrator and project manager for several projects back at the agency, I am able to design and manage startup projects from ground-up with high attention to scalability and future maintenance.
+
+I usually try to follow the best practices in code structure and SDLC, and especially keep with the SOLID DRY KISS principle.
+
+Please check the following websites as a reference to my recent work :
+
+https://artistsunlimited.com (MEAN Stack - uses soundcloud API)
+http://goclassrooms.herokuapp.com (MEAN Stack)
+http://makolahub.com (AngularJS, Bootstrap, Symfony2)
+https://angel.oroboo.com (AngularJS, Bootstrap, SASS, Laravel, WebRTC)
+
+https://parlourgigs.com (MEAN Stack)
+https://v2-beta.crooklynclan.net/# (MEAN Stack - Audio management with ffmpeg)
+http://bityo.io (developed a crypto payment system using Bitgo)
+
+And having dealt with lots of algorithmic research before working on this web development field, I can handle challenging problems professionally with quality.
+
+Ready to discuss more about the project during the interview.
+Best regards,

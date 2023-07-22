@@ -1,0 +1,46 @@
+Greetings,
+
+I have read the job description and got very interested in proceeding on the project as it perfectly fits in my expertise.
+
+My skills consist of :
+- iOS & Android App Development (Objective C/Swift, Flutter for UI,Java, Social Networking/GPS Tracking/Video Streaming/Messaging)
+- Backend API Programming (Parse(Back4app), AWS, PHP, RoR, Angular JS, Nods.Js)
+- Database (MySQL, SQL-Server, MongoDB, Firebase, DynamoDB)
+- 3rd Party API Integration - (Quick Blox, Parse, Amazon, Facebook, AFNetworking, ...)
+- PHP, ROR, Python, MySQL, HTML5, Javascript, CSS, XML
+
+I have built Dating app, Chatting app, Social app, Educational app, Photo sharing app, Video sharing app, Geolocation app, Reservation/Ordering/Delivery app, Traveling app, Health/Fitness app, Utility app successfully.
+
+As you can see, I have all required skills for you and your project.
+I am sure, I can build your project successfully and will look forward to hear from you soon.
+Thanks for your making time to read my application.
+Best regards,
+From David B
+
+
+
+Who are you, and what are some of your life goals?
+
+ I am a professional developer with Bachelor's Degree in Computer Science and more than 11 years of Web & Mobile development experience.
+A Proficient hands-on professional with a successful record of accomplishments in the Computer Software industry. Experienced developer with not only extensive object oriented programming and design skills but also with a creative way of thinking and outstanding problem solving skills.
+
+
+Which of the required job skills do you feel you are strongest at?
+
+I am a full stack developer who can handle both backend & frontend.
+I also have a great teamwork experience with profound knowledge of SDLC, and can manage the team to build a successful product.
+
+
+Why do you think you are a good fit for this particular project?
+
+ - I write clean, modular, robust code to implement the desired requirements
+- I will deliver you fully functional App for iOS and Android
+- I will write a full documented code with additional comments
+- I will contribute ideas for making the application(s) better and easier to use
+- I am willing to participate in occasional teleconferences.
+- I will build a Web-based Internet Protocol for iOS and Android
+- I will produce X-code for iOS as well as code in Swift
+- I have experience in integrating app with restful web services, IAP, Third party api.
+- I possess excellent knowledge in SQL/PHP/Web services, to build a web back end or data storing on server.
+
+

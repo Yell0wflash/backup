@@ -1,0 +1,20 @@
+Cover letter
+Hi there,
+
+I have to say, this job post really stuck out to me because of having a great command of full-stack development. I’m an AWS certified developer with 8 years of hands-on experience.
+
+I use React, Typescript as a front-end as well as many different tools like Redux, Vue, Angular, HTML/CSS, SASS, JSS, Formic, Material UI, Ant Design, and many more.
+
+I've used many different tools for the back-end in the past which are: Node.Js, Express.Js, Next.Js Restify, Typescript based Servers, AWS Cloudwatch Agent, MongoDB, DynamoDB, and more.
+
+Recently I worked on a project in which I have used the following technologies:
+React, Node.js, Typescript, AWS Amplify, Amazon API Gateway, AWS Lambda
+So there would be no complications for me in solving your problem.
+
+Please review my profile where you will find numerous 5 star rating feedback and if you choose me, you can be assured you are getting top-notch expertise and I'm someone who will complete your job correctly the first time.
+
+Let's jump on a 10 minutes call (free of cost) So that we can discuss your project in more detail and identify how my skill set will work best for you and provide great value for you.
+
+
+Best Regards,
+Usman Ali F.

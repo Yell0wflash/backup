@@ -1,0 +1,39 @@
+Hours per week
+More than 30 hrs/week
+Languages
+English: Native or Bilingual
+Education
+California Polytechnic State University, San Luis Obispo
+Master's degree, Computer science
+2007-2011
+Software development
+$26.25/hr
+Hello everyone. My name is Eva. I am a software developer with 9+ years of experience.
+I have great communication skills both written and verbal. My skills are:
+iOS and Android App development
+iOS and Android design
+UI/UX Design
+JavaScript libraries
+Node.js
+Vue.js
+Angular.js
+
+I'm also specialized in PHP, WordPress, React, eCommerce. During my developer journey I have improved my skills. My professionalism includes bug and error fix, changes, modify, optimization, performance improvement and many more.
+
+I am always open to new suggestions to use my skills.
+
+less
+Skills
+WordPress
+Angular
+Web Design
+Web Development
+Python
+Java
+JavaScript
+Payment Gateway Integration
+Laravel
+Linux
+Adobe AIR
+Figma
+Node.js

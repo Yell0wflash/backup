@@ -1,0 +1,19 @@
+Good day,
+
+I am a senior full-stack (MERN) developer with over 6 years of extensive experience.
+It is with great interest that I apply for the open long-term position in your project developing a project to do cryptocurrency services.
+
+I possess a great deal of professional experience in:
+JavaScript, TypeScript, ReactJS, NextJS, Redux, HTML, CSS, Bootstrap, NodeJS, MongoDB, APIs, AWS, Git, etc.
+If you require any further detail regarding my skills, do not hesitate to get in touch with me right away.
+
+Apart from the skill set, I have worked on many cryptocurrency projects using my tech-stack, for instance:
+https://www.blockfinex.com/
+Blockfinex is a global Cryptocurrency Exchange that allows you to trade various cryptocurrencies across the world. The platform provides industry-leading security and full 24-hour support.
+
+https://www.chainbytes.com/
+A Bitcoin ATM Solution for a simple and secure way of buying and selling cryptocurrencies. With state-of-the-art ATM hardware and leading Bitcoin ATM Software, they are changing the world of cryptocurrencies one block at a time.
+
+I would greatly appreciate the opportunity to E-meet with you to discuss what I have to bring to your project.
+
+Many thanks.

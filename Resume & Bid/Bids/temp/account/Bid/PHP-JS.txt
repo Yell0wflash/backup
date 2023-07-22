@@ -1,0 +1,25 @@
+Hi,
+
+I have been working for enterprise-level private projects for years and have very much skills and experience with all the required skillsets mentioned.
+
+I started my web development career with PHP and could thus attain thorough knowledge about its syntax and various frameworks & libraries based on it.
+
+Also, I mainly concentrated on JS stacks these days and have worked on several side projects other than the main project at agency.
+
+I have profound knowledge about the SDLC workflow and put top priority on code quality.
+
+I usually try to keep SOLID DRY KISS principle in my code writings.
+
+Please check the following sites as a reference to my past work :
+
+https://artistsunlimited.com (MEAN Stack - uses soundcloud API)
+http://rnbass.com (Vue frontend with soundcloud & youtube API integration)
+http://touringlegends.com (Laravel)
+https://supacaz.com (Woocommerce)
+https://supacazb2b.com (Prestashop)
+
+*I'm willing to do a test task to show off my skills in the fields.*
+
+Ready to discuss further.
+
+Best,

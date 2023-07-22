@@ -1,0 +1,219 @@
+Hi
+As a smart contract expert I am familiar with ERC721/A and good at :
+>Solidity
+>OpenZeppelin
+>Hard hat, Truffle, Ganache, Remix, Alchemy
+>Web3.js, Ether.js 
+
+and for Dapp dev I am well versed at :
+>React/Redux/Next.js, Vue/Nuxt.js
+>Express/Node.js, Laravel/PHP
+>Sass, Flexbox, CSS Grid
+>Tailwind CSS
+
+https://mightymongooses.com (NFT mint)
+https://niftyville.net (NFT staking)
+https://icy.tools (NFT marketplace)
+https://www.thorchain.com (DEX & DeFi)
+Building several smart contract service I've developed and deployed those services myself from scratch.
+
+Feeling enough skills and experience for the goal I hope to discuss with you soon and would like to contribute asap.
+Thanks
+
+-------------------------------------------------------------------------
+
+HI, there.
+I'm web and blockchain developer with 5 years of experience.
+You can test me and I'll do my best to prove my skills.
+
+I'm confident in these fields below:
+✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot
+✓ DApps development ; Solidity/Rust + web3.js/ethers.js
+✓ Solidity, Rust, Golang, C++, Java, Python
+✓ Integration with crypto wallets such as Metamask.
+✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis
+✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)
+What I can do for you:
+✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com
+✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
+✓ ICO| STO| IEO- Developing from scratch + Marketing
+✓ Smart Contract (ERC20 + ERC721) and Audit
+✓ IOT solutions using blockchain such as in Farming
+✓ Peer to peer platform
+✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
+✓ Cryptocurrency Pricing Website
+✓ Crypto Arbitrage
+✓ Forking coin
+Please contact me if you want reliable developer.
+---------------------------------------------------------
+Hi
+Thanks for your posting.
+do you need to integrate smart contract and web3.js for NFT minting website?
+As a solidity and web3 expert, I have vast knowledge in this part
+I can build it asap
+could you let me know about more details?
+Thanks
+
+---------------------------------------
+Hi.
+I'm a professional software developer specialized in blockchain, rust, solidity, NFT and Dapp development.
+
+● Developed several NFTs (including write smart contract, generate NFT, deploy on the blockchain network, front end and back end.)
+● Build DeFi, Dex platforms.
+● Multichain Web and Mobile Wallet
+● Crypto Betting and Casino
+● Yield Farming Protocols
+● Liquidity Mining Protocols
+● Automated Market Making (AMM) protocol
+
+I'm very familiar with several blockchain network including Solana, Ethereum, Binance, and so on.
+And as a full stack software engineer, I've enough experience with web applications.
+
+Here's skills I can serve for you:
+● React.js, Vue.js, Angular.js
+● Node.js, Laravel/PHP
+
+I'm also familiar with agile project management tools including Github, JIRA, Trello, Bitbucket, etc.
+I ensure the highest quality of product and 100% satisfaction through my work.
+I am available 40+ hours per week for you and I can work on your timezone.
+Thanks.
+Thanks.
+
+-------------======================================
+
+Hi, nice to meet you!
+I've read your job description for NFTs mint.
+Have many experiences with blockchain in publishing NFTs smart contracts and NFT Defi & Marketing sites, I had developed DApp websites that include NFT which is implemented by using ReactJS/Web3JS/Solidity. And I am familiar in tools for blockchain such as truffle, hardhat, remix, web development as I am full-stack development and can use reactjs/vuejs for frontend, nodejs/php/python for backend. Deploy smart contract for NFT, create NFT images, register NFTs on opensea and IPFS, Build NFT marketing, NFT game like cryptokitties, small blockchain game...
+https://procamelriders.com
+Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub. Feel free to contact me for your project.
+Best regards,
+Uran
+
+======================================================
+Hi
+I'm a senior blockchain developer who has rich experience in building DApps and DeFi projects.
+Especially I have experience in building NFT marketplace using Solidity, Web3, React.
+
+Here are some of my previous works
+https://www.wildgoatgang.com/
+https://vaultofgems.io/
+https://cryptodragons.com
+https://www.billionaireclubnft.com/
+
+I'm very interested in your project and want to discuss more details on chat.
+Look forward to hearing from you soon.
+
+Best Regards.
+
+==============================================================
+Cover letter
+👍 Blockchain and Web Developer 👍
+
+I sure I can complete your project perfectly.
+
+The main technologies we are currently working on:
+
+blockchain application
+⚡ Solidity/Web3.js/Ethereum
+⚡ ERC1155 & ERC721(NFT) & ERC20
+⚡ BEP1155 & BEP721(NFT) & BEP20
+⚡ Solana/Rust
+⚡ SPL_Token
+⚡ NFT Marketplace
+
+web application
+⚡HTML/HTML5/CSS/CSS3/JavaScript/TypeScript
+⚡React/Redux/Next.js/Nodejs/Angular/Vue.js/Larevel
+⚡ Material Ui/Bootstrap/Ant-D/Storybook
+⚡ Docker/Kubernetes/Amazon Web Services
+
+I think we can have good conversation for this work.
+Thank you.
+=============================================================
+Dear Sir!
+
+I am a Chan Shou from Hong Kong, a professional software developer specialized in blockchain, Web3.js, Web3.py, solidity, NFT and Dapp development.
+Over the past years, I have done many projects with NFT market platforms, token swap dapp, smart contract base on ERC20/721/1155, BEP20/721 standard.
+NFT technology is the best of my top skill. With 5 years of experience in Blockchain, having a deep knowledge of blockchain technologies, specifically in constructing the decentralized application, fork & customizing the existing secure smart contracts, implementing trending methods like yield farming, new proof methods and etc.
+I have worked on building NFT own shops, clone ones from opensea, solana, and generating asciiman randomly, mint/buy NFTs on main network. Also, I would be autonomous in RestAPIs, AWS, Azure, GCP, Firebase, Git, Jira, Docker, and familiar with programming languages like typescript, javascript, python.
+I am sure that the highest quality of products and 100% satisfaction through my work.
+I am available at least 40 hours per week on your working timezone.
+
+I'll look forward to hearing from you soon.
+Thanks so much.
+Kind Regards.
+Chan.
+==============================================================
+Hi there, How are you?
+I just saw your post and understood everything what you want.
+Of course, I am very familiar with web3.js and web3.py.
+So I have the confidence to finish your task without any fail.
+if you need my help, feel free to ping me.
+I am always ready for you.
+Have a nice day
+================================================================
+Hi.
+Are you looking for a blockchain developer?
+I can help you.
+I have 3 years of experience in developing blockchain project.
+I have develop many project like nft marketing place or cryptocurrency or smart contract etc.
+Hope to see you on my client list.
+Waiting for your response.
+Thanks and Regards.
+==============================================================
+
+Hi. I am a professional developer who can handle tasks relative to blockchain.
+1. Smart contract development in networks (Ethereum, BSC, Matic/Polygon, Cardano) by using Solidity
+2. Solana smart contract development (Unit test, Rust cosmwasm, solana-program-library, Solana-web3, Raydium integration) by using Rust and Anchor framework
+3. Front-end development interactive with smart contract by using Web3, truffle, React(Redux / Thunk / Saga), Angular and Vue.
+4. ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), Hyperledger Fabric
+5. NFT minting and NFT marketplace development, NFT Staking(Create listing by admin, flat & Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
+-Minter in Candy machine and 10% royalty moved to burn and other wallets
+-Burn mechanism with kind of sharing rewards back to the holders
+-Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to IPFS
+6.Bot development for sale monitoring bot OS and Niftygateway
+7. Cryto game development with crypto payment gateway
+Let's discuss your project together.
+Thanks.
+=============================================================
+Hi, there.
+
+This is Akimoto Akira.
+I am a Blockchain Developer with 6 years of experience in multiple crypto startups, projects related to NFT, DeFi, Betting game using cryptocurrency and also in utility category. I hold multi-chain experience with leading Blockchain protocols like EOSIO, EVM.
+
+Experiences
+✔️ Trading bot with strong strategies (Front running, snipping, arbitrage, contract bot)
+✔️ NFT marketplace with Smart UI and high end functionalities in Ethereum, Binance, Cardano, Solana, etc.
+✔️ DeFi, DEX and Centralized Crypto Exchange
+✔️ Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+✔️ Portfolio Tracking Platform
+✔️ Multichain Web and Mobile Wallet
+✔️ Crypto Betting and Casino
+✔️ Yield Farming Protocols
+✔️ Liquidity Mining Protocols
+✔️ Automated Market Making (AMM) protocols
+✔️ Flash Loans
+✔️ Impermanent loss, governance tokens
+✔️ P2P/Pool Lending and Borrowing
+✔️ Crypto Collectible Platforms and Non-Fungible Tokens
+✔️ Custom dApps
+✔️ NFT Game Development, ICO, IDO, IGO
+✔️ ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+✔️ Token Design - Stabilcoins, Utility, Security, Investment, Dividend coins
+https://www.waxstash.com
+https://www.thehashmasks.com
+https://app.alchemix.fi
+https://ysl.io
+https://yieldguild.io
+https://overworldlife.com
+https://satoshimonsters.cc
+https://dex.leonicornswap.com/home
+https://cosmicpaws.io/
+https://cryptoetsnft.io/
+https://therubberduck.io/
+
+Also, I have rich experience developing various bots like discord account generator, telegram bot, whatsapp chatbot, website chatbot, scraping bot and automation bot using python, Django, Flask and Rasa. I can start work right away and deliver perfect results in the shortest time.
+If you are looking for reliable and honest developer, please feel free to contact me.
+
+Thank you

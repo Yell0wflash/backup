@@ -1,0 +1,139 @@
+-----------------------App Type Developed By ME------------------
+
+Ordering App  
+Captain Reports App 
+Grocery App
+Taxi and Delivery Combined App
+Pharmacy App 
+Doctor App 
+Dating app instagram App 
+Restaurant app
+Buy& Sell business app
+healthcare
+social app
+chat app
+real estate app
+eCommerce app
+dictionary app
+Uset app
+Admin App
+Driver App
+
+-------------Flutter-----------------------
+
+https://play.google.com/store/apps/details?id=nz.ecotrack.mobile&hl=en
+https://play.google.com/store/apps/details?id=com.rflchallenges&hl=en
+https://play.google.com/store/apps/details?id=com.amrbadr12.oro_pocket
+https://play.google.com/store/apps/details?id=com.finalrentals.app&hl=en
+https://itunes.apple.com/us/app/fit-with-dario/id1344390141?mt=8
+https://play.google.com/store/apps/details?id=com.onlineexim
+https://play.google.com/store/apps/details?id=com.app.onlinepropertytax
+https://apps.apple.com/us/app/onlineexim-learning/id1544153079
+https://apps.apple.com/us/app/meeatnest/id1591710712
+https://apps.apple.com/us/app/hashcloud/id1585982838
+https://play.google.com/store/apps/details?id=com.samarthmodi.cityguide
+https://apps.apple.com/us/app/speede-online-supermarket/id1589834942
+https://play.google.com/store/apps/details?id=com.mayurwovens
+https://apps.apple.com/in/app/mayur-hmel/id1623127782
+
+
+
+---------------------Android app--------------------------------
+https://play.google.com/store/apps/details?id=com.Giftcast.Live&hl=en_IN
+https://play.google.com/store/apps/details?id=com.mihaciendacarmel.app
+https://play.google.com/store/apps/details?id=com.netservice.geteat
+
+Project Name: Neymar Jr Experience (100,000+ Downloads & 4.5 Rating)
+Google Play Link: https://play.google.com/store/apps/details?id=com.hieducation
+
+Project Name: Rhapidus
+Google Play Link: https://play.google.com/store/apps/details?id=com.rhapidus
+
+
+---------------------iOS app-----------------------------------------
+https://apps.apple.com/us/app/mihacienda/id1514827371
+https://apps.apple.com/us/app/la-casona/id1516055978
+https://apps.apple.com/us/app/giftcast/id1436986233?l=da
+
+IOS APPS:
+
+Project Name: Neymar Jr Experience
+Apple Store Link: https://itunes.apple.com/us/app/neymar-jr-experience/id1380615659?mt=8
+
+Project Name: Rhapidus
+Apple Store Link: https://itunes.apple.com/us/app/rhapidus/id1321263144?mt=8
+
+
+---------------SafeBuy(Android app)----------------------------
+https://play.google.com/store/apps/details?id=com.likeness.safebuy
+
+
+
+-------------- Daalo App(Android app link:)
+https://play.google.com/store/apps/details?id=com.daalo
+
+---------------Roccabox App(Android and iOS links:)-
+https://play.google.com/store/apps/details?id=com.roccabox.roccabox
+https://apps.apple.com/us/app/roccabox/id1584103351
+
+---------------Taxi app(Flutter)-----------------------------------
+https://play.google.com/store/apps/details?id=ai.bliq.ride
+https://apps.apple.com/lv/app/bliq-ride-for-drivers/id1481068175
+
+--------------Service provider apps(Flutter)----------------------
+https://play.google.com/store/apps/details?id=com.servishero.consumer
+https://itunes.apple.com/app/servishero-hire-local-businesses/id992334828
+
+
+-------------APPAREL E-COMMERCE-----------------------------
+https://play.google.com/store/apps/details?id=com.UniqueApparels.in
+https://play.google.com/store/apps/details?id=com.app.uptownief&hl=en&gl=US
+
+----------------DELIVERY APP------------------------------------
+https://play.google.com/store/apps/details?id=com.WeDeliverLocal.app
+https://play.google.com/store/apps/details?id=com.getdelivered
+
+----------------------TRAVEL APP-----------------------------------
+https://play.google.com/store/apps/details?id=com.akbartravel.AkbarTravels
+
+------------------------E-LEARNING APP-------------------------
+https://play.google.com/store/apps/details?id=com.sirez.android.smartschool
+
+
+----------------------Fun activity finder app-----------------------
+https://play.google.com/store/apps/details?id=com.PlagoFunFinder.FunActivity.FunFinder
+
+----------------------Social media app---------------------------------
+https://play.google.com/store/apps/details?id=io.ionic.doitliketakemoney
+
+----------------------Solidefi Invest----------------------------------
+https://play.google.com/store/apps/details?id=com.deepmirror.app
+
+
+---------------------Food delivery web and apps-------------------
+- https://youfoodz.com/
+- https://apps.apple.com/au/app/youfoodz/id1265572034
+- https://play.google.com/store/apps/details?id=com.youfoodz.app
+
+--------------------Quiz whiz app (Online quiz application)----------------
+-https://quizwhiz.app/
+-https://quizwhiz.app/apk/quizwhiz.apk
+-https://apps.apple.com/us/app/quizwhiz/id1542955014
+
+
+------------------------Grocery App----------------------------
+
+https://play.google.com/store/apps/details?id=com.tapzuandroid.customer
+https://play.google.com/store/apps/details?id=com.altrigatech.getfreshkart
+
+
+-----------------------------SafeBuy App(Android App)---------------
+
+https://play.google.com/store/apps/details?id=com.likeness.safebuy
+
+----------------------Daalo App(Android app link:)
+https://play.google.com/store/apps/details?id=com.daalo
+
+--------------------Roccabox App(Android and iOS links)-------------
+https://play.google.com/store/apps/details?id=com.roccabox.roccabox
+https://apps.apple.com/us/app/roccabox/id1584103351

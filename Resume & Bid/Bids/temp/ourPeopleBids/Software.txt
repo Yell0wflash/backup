@@ -1,0 +1,18 @@
+A Proficient hands-on professional with a successful record of accomplishments in the Computer Software industry. Experienced developer with not only extensive object oriented programming and design skills but also with a creative way of thinking and outstanding problem solving skills.
+
+My skills consist of :
+
+- Expertise in NodeJS, TypeScript, PHP (and its frameworks & CMSs - Laravel, Phalcon, CodeIgniter, WordPress...)
+- AngularJS, ReactJs and jQuery expert for frontend
+- Gulp, Bower, Webpack for asset management
+- Database development & management with RDB (MySQL, PostgreSQL, MSSQL), NoSQL(Mongodb) and GraphQL
+- TDD, BDD expert using Mocha, Jasmine
+- AWS, Heroku, DigitalOcean and Azure expert for hosting, with Docker & Vagrant knowledge
+- Task managment with Jira and Trello
+- Version control with Github, Bitbucket and SVN
+
+As you can see, I have all required skills for your project.
+I can without doubt build your project successfully and can also provide seamless communication during the development.
+
+Thanks for your making time to read my application. Let's discuss further during the interview.
+Best regards, 

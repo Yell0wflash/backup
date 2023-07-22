@@ -1,0 +1,39 @@
+Greetings,
+
+I am a professional developer with Bachelor's Degree in Computer Science and more than 8 years of Web development experience.
+
+I have lots of experience with Crypto Wallet APIs like Bitgo.
+
+As a full-stack developer, my best skills include :
+- Server side: Node.js, Laravel, Zend, Ruby on Rails, Python
+- Client side: AngularJS, React.js, Vue.js
+- CMS: Drupal, Wordpress, Magento, Joomla, Shopify
+
+I worked for IT companies for years and I successfully launched huge projects, now I started to work as a freelancer on upwork.
+I've worked on many apps/websites including Dating site, Booking System, Traveling System, Online Marketing System, e-Commerce site and Crowdfunding Landing Pages.
+I always focus on code quality over result of quantity.
+This is an essential part in development & maintenance of projects, especially when I'm collaborating as a team member.
+I am very skilled at working remotely and always willing to learn something new.
+
+Please check the following blockchain related projects I previously worked on :
+
+1) BitYo (http://bityo.io - the frontend is not complete yet)
+I have developed a crypto payment system using Bitgo.
+
+2) https://plan-dev-003.brackets.trade
+I have developed a broker API for skuchain called Brackets.
+
+3) https://www.swypto.exchange
+Used NodeJS & Coffeescript for this development which interacts with BTC API and allow users to transfer funds to their wallets.
+
+Thanks for your read, ready to discuss more about the project during the interview.
+Best regards,
+
+
+-- P.S. --
+I have experience dealing with several kinds of crypto wallets including BTC, ETH, LTC and BCH.
+I mainly used Bitgo APIs for managing the wallets and the most complex one to handle among these is the ETH wallet.
+I have to take in the gas price for the transaction to be processed, and also handle a late processing of a created address as ETH addresses take time to be confirmed on the network...
+And they provide a separate API for BTC, but I can handle all these with ease.
+Also, the best part would be that I'm really experienced in security enforcement in the backend API development.
+I have years of experience in this and can handle atomic transactions and secure input validations along with strong 2FA and request authorization.
